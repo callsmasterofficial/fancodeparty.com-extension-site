@@ -16,7 +16,7 @@ export async function getStaticProps() {
         description:
           'Host global streaming parties with Fancode Party Extension & enjoy real-time HD sync, controllability, live chat or personalized profiles. Free and fun for all. ',
         keywords:
-          'Crunchyroll Party, Crunchyroll Watch Party, Crunchyroll Party Extension, Crunchyroll Party Chrome Extension, Crunchyroll Watch Party Extension, Crunchyroll Watch Party Chrome Extension',
+          'Cricket live,Fancode Party,Fancode Party Extension, Fancode Party Chrome Extension, how to use Fancode Party, install Fancode Party, Fancode Party, Fancode watch party, Fancode Party Extension, Fancode Party Chrome Extension, Watch Fancode Party, Guide to Fancode Party, how to use Fancode Party, How to Make Fancode Party, How to Make a Fancode Party, How to Watch Fancode Together',
         pageUrl: 'https://fancodeparty.com',
         featuredImage: '/logo.png',
       },

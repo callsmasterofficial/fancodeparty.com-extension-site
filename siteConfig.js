@@ -202,9 +202,7 @@ Here's to an unforgettable Fancode Watch Party!
     subheading: 'Let Us Know.',
     title: 'Have questions? Visit our support page',
     tags: [
-      'Cricket live',
-      'Fancode Party',
-      'Fancode Party Extension, Fancode Party Chrome Extension, how to use Fancode Party, install Fancode Party,  Fancode Party, Fancode watch party, Fancode Party Extension, Fancode Party Chrome Extension, Watch Fancode Party, Guide to Fancode Party, how to use Fancode Party, How to Make Fancode Party, How to Make a Fancode Party, How to Watch Fancode Together,',
+      'Fancode Party Extension, Fancode Party Chrome Extension, how to use Fancode Party, install Fancode Party,  Fancode Party, Fancode watch party, Fancode Party Extension, Fancode Party Chrome Extension, Watch Fancode Party, Guide to Fancode Party, how to use Fancode Party, How to Make Fancode Party, How to Make a Fancode Party, How to Watch Fancode Together.'
     ],
     disclaimer:
       'Fancode Party Extension offers a seamless streaming experience, but occasional issues can arise. Ensure you follow troubleshooting tips for a trouble-free event. Enjoy your Fancode Party.',

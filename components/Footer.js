@@ -48,12 +48,12 @@ function Footer() {
               Popular Searches
             </h4>
             <span className="primary_text_color mr-1">:</span>
-            <p className="primary_text_color text-xs md:text-base">
+            <p className="primary_text_color text-xs md:text-base text-justify">
               {siteConfig.footer.tags.map((item, index) => {
                 if (index == 0 || index == 1) {
                   return (
                     <span className="pr-2" key={`tags-${index}`}>
-                      {item},
+                      {item}
                     </span>
                   )
                 } else {
@@ -66,10 +66,10 @@ function Footer() {
 
         <div className="popu_search_box  flex items-center justify-center p-2">
           <span className="span  flex items-center">
-            <h4 className="primary_text_color mr-1 text-base font-bold">
-              Disclaimer
+            <h4 className="primary_text_color ml-8 mr-1 text-base font-bold ">
+              Disclaimers
             </h4>
-            <span className="primary_text_color mr-1">:</span>
+            <span className="primary_text_color mr-5 ml-5">:</span>
             <p className="primary_text_color text-base">
               {siteConfig.footer.disclaimer}
             </p>
