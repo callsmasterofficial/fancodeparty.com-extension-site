@@ -4,9 +4,10 @@ const config = {
   blogUrl: '/blog',
   siteId: '64f568ffdc442be4903a09a0',
   extLink: {
-    chrome: '',
+    chrome:
+      'https://chrome.google.com/webstore/detail/fancode-party/ggedddmcehccjajcnndmikemjghnlkgn',
     firefox: '',
-    edge: '',
+    edge: 'https://chrome.google.com/webstore/detail/fancode-party/ggedddmcehccjajcnndmikemjghnlkgn',
   },
   logo: './logo.png',
   gtagId: '221740582-4',
@@ -30,7 +31,7 @@ const config = {
           id: 1,
           question: 'Install the Fancode Party Extension',
           answer:
-            'Initiate your journey by directly downloading and installing the Fancode Party extension through this provided  <a href="/"><b><u> Click Here</u></b></a>  If you prefer manual installation, ensure you have a compatible web browser like Google Chrome or Microsoft Edge and a device that supports it, such as Macs, Chromebooks, or Windows systems.',
+            'Initiate your journey by directly downloading and installing the Fancode Party extension through this provided  <a href="https://chrome.google.com/webstore/detail/fancode-party/ggedddmcehccjajcnndmikemjghnlkgn"><b><u> Click Here</u></b></a>  If you prefer manual installation, ensure you have a compatible web browser like Google Chrome or Microsoft Edge and a device that supports it, such as Macs, Chromebooks, or Windows systems.',
         },
 
         {
@@ -202,7 +203,7 @@ Here's to an unforgettable Fancode Watch Party!
     subheading: 'Let Us Know.',
     title: 'Have questions? Visit our support page',
     tags: [
-      'Fancode Party Extension, Fancode Party Chrome Extension, how to use Fancode Party, install Fancode Party,  Fancode Party, Fancode watch party, Fancode Party Extension, Fancode Party Chrome Extension, Watch Fancode Party, Guide to Fancode Party, how to use Fancode Party, How to Make Fancode Party, How to Make a Fancode Party, How to Watch Fancode Together.'
+      'Fancode Party Extension, Fancode Party Chrome Extension, how to use Fancode Party, install Fancode Party,  Fancode Party, Fancode watch party, Fancode Party Extension, Fancode Party Chrome Extension, Watch Fancode Party, Guide to Fancode Party, how to use Fancode Party, How to Make Fancode Party, How to Make a Fancode Party, How to Watch Fancode Together.',
     ],
     disclaimer:
       'Fancode Party Extension offers a seamless streaming experience, but occasional issues can arise. Ensure you follow troubleshooting tips for a trouble-free event. Enjoy your Fancode Party.',
