@@ -34,6 +34,7 @@ function MyApp({ Component, pageProps }) {
         <meta name="robots" content="index, follow" />
         <meta property="og:type" content="article" />
         <meta property="og:sitename" content={siteConfig.siteName} />
+        <meta name="msvalidate.01" content="51C5E4D9E2BD02A3C99D780B37D301D3" />
         <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css"
