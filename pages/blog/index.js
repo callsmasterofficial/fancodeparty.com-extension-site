@@ -29,7 +29,7 @@ export async function getStaticProps() {
     return {
       props: {
         meta: {
-          title: 'Blog - Crunchyroll Party',
+          title: 'Blog - fancodeparty',
           description: '',
           keywords: '',
           pageUrl: 'https://fancodeparty.com/blog',
