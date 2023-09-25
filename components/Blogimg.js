@@ -23,7 +23,7 @@ function Blogimg({ data }) {
               >
                 <div className="img-box">
                   <img
-                    className="w-[680px]  cursor-pointer object-contain"
+                    className="w-[680px] cursor-pointer object-contain"
                     src={item.featured_image}
                     alt="featured_image"
                   />
