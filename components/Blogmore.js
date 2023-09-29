@@ -15,7 +15,7 @@ function Blogmore({ data }) {
           <div className="img-box my-4 flex h-[100%] w-[100%] items-start justify-start object-contain">
             {/* <Link href="/blog"> */}
             <img
-              className="img my-2 cursor-pointer rounded-md"
+              className="img my-2 cursor-pointer rounded-md "
               src={data.featured_image}
               alt="Batman Image"
               style={{ boxShadow: '0px 0px 4px 4px #1F183B' }}
