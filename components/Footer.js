@@ -32,7 +32,7 @@ function Footer() {
 
         <button className="-mt-6 mb-5 ml-4 flex w-auto items-center justify-center rounded-[4px] border-2 border-[#1F183B] bg-white p-2 text-xl transition-all duration-200 hover:bg-[#1F183B] hover:text-white md:mt-0">
           <Link href="/privacy">
-            <span className="px-2 text-base font-bold">Privacy</span>
+            <span className="px-2 text-base font-bold ">Privacy</span>
           </Link>
         </button>
       </div>
