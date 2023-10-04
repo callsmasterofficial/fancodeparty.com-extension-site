@@ -6,10 +6,10 @@ export default function CustomAccordion({ item, show, toggleFunc }) {
     <div>
       <div
         onClick={() => toggleFunc(item)}
-        className="my-2 flex cursor-pointer items-center  justify-between rounded-md border-b-2 border-white bg-[#1F183B] p-4 font-semibold text-white"
+        className="my-2 flex cursor-pointer items-center justify-between rounded-md border-b-2 border-white bg-[#1F183B] p-4 font-semibold text-white"
       >
         {item.question}
-        <div className="flex  h-[24px] w-[24px] items-center  justify-center rounded-full bg-white font-bold text-black">
+        <div className="flex  h-[24px] w-[24px] items-center justify-center rounded-full bg-white font-bold text-black">
           {(show === item.id && <Minus />) || <PlusIcon />}
         </div>
       </div>
