@@ -2,7 +2,7 @@ import React from 'react'
 import Textques from './Textques'
 import siteConfig from '../siteConfig'
 import InstallButton from './InstallButton'
-import CustomVideo from './CustomVideo'
+
 function Text() {
   // linksUri
 
@@ -71,7 +71,7 @@ function Text() {
           {/* afterborder_video & text*/}
           <div className="m-auto mb-24 w-[95%]">
             <div className="main-video-text-container mt-5 md:flex ">
-              <div className="paragraph-box mb-16 w-[100%] md:w-[50%] mr-5 ">
+              <div className="paragraph-box mb-16 mr-5 w-[100%] md:w-[50%] ">
                 <img
                   src="./screenshot-2.jpg"
                   height="0"
