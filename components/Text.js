@@ -2,6 +2,7 @@ import React from 'react'
 import Textques from './Textques'
 import siteConfig from '../siteConfig'
 import InstallButton from './InstallButton'
+import CustomVideo from './CustomVideo'
 function Text() {
   // linksUri
 
@@ -32,6 +33,14 @@ function Text() {
             </div>
           </div>
 
+          <div className="paragraph-box mb-16 w-[100%] md:w-[50%]">
+            <img
+              src="./screenshot-1.jpg"
+              height="0"
+              width="600"
+              alt="how to host"
+            />
+          </div>
           {/* video */}
           {/* <div className="paragraph-box mb-16 w-[100%] md:w-[50%]">
             <CustomVideo src={siteConfig.section.first.video} />
@@ -62,12 +71,17 @@ function Text() {
           {/* afterborder_video & text*/}
           <div className="m-auto mb-24 w-[95%]">
             <div className="main-video-text-container mt-5 md:flex ">
-              {/* <div className="video-box m-auto -mt-6 w-[100%] pt-[30px] md:mr-[24px] md:mt-0 md:w-[50%]">
-                <CustomVideo src={siteConfig.section.second.video} />
-              </div> */}
+              <div className="paragraph-box mb-16 w-[100%] md:w-[50%] mr-5">
+                <img
+                  src="./screenshot-2.jpg"
+                  height="0"
+                  width="600"
+                  alt="Host Fancode Party_ Stream"
+                />
+              </div>
               {/* textcontainer start here */}
 
-              <div className="text-border-container mt-8 h-fit w-[100%] cursor-pointer md:mt-0   md:w-[50%]">
+              <div className="text-border-container mt-8 h-fit w-[100%] cursor-pointer md:mt-0  md:w-[50%]">
                 <Textques />
               </div>
             </div>

@@ -30,9 +30,14 @@ function Text2() {
 
           {/* text ends here */}
           {/* video start here */}
-          {/* <div className="video-box  ml-2 md:mt-0 md:w-[50%] ">
-            <CustomVideo src={siteConfig.section.three.video} />
-          </div> */}
+          <div className="paragraph-box mb-16 w-[100%] md:w-[50%]">
+            <img
+              src="./screenshot-3.jpg"
+              height="0"
+              width="600"
+              alt="feature of fancode party"
+            />
+          </div>
         </div>
         <div className="mt-12 flex items-center   justify-center  md:w-[100%]">
           <InstallButton />
