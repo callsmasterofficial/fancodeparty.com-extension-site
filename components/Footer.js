@@ -48,7 +48,7 @@ function Footer() {
               Popular Searches
             </h4>
             <span className="primary_text_color mr-1">:</span>
-            <p className="primary_text_color text-xs md:text-base text-justify">
+            <p className="primary_text_color text-justify text-xs md:text-base">
               {siteConfig.footer.tags.map((item, index) => {
                 if (index == 0 || index == 1) {
                   return (
@@ -69,7 +69,7 @@ function Footer() {
             <h4 className="primary_text_color ml-8 mr-1 text-base font-bold ">
               Disclaimers
             </h4>
-            <span className="primary_text_color mr-5 ml-5">:</span>
+            <span className="primary_text_color ml-5 mr-5">:</span>
             <p className="primary_text_color text-base">
               {siteConfig.footer.disclaimer}
             </p>
