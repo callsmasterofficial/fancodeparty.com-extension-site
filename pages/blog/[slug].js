@@ -6,16 +6,13 @@ import Banner from '../../components/Banner'
 import db from '../../config/db'
 import Blog from '../../models/blog'
 import siteConfig from '../../siteConfig'
-
 const site = siteConfig.siteId
-
 export async function getStaticPaths() {
   return {
     paths: [],
     fallback: true, // false or 'blocking'
   }
 }
-
 export async function getStaticProps({ params: { slug } }) {
   try {
     db()
