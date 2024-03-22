@@ -1,0 +1,163 @@
+{
+  "headingOne": "Sekretesspolicy för Fancode",
+  "sectionOne": [
+    {
+      "id": "1",
+      "answer": "På Fancode, tillgänglig från https://www.fancodeparty.com/, är en av våra huvudprioriteringar våra besökares integritet. Detta sekretesspolicydokument innehåller typer av information som samlas in och registreras av Fancode och hur vi använder den."
+    },
+    {
+      "id": "2",
+      "answer": "Om du har ytterligare frågor eller behöver mer information om vår integritetspolicy, tveka inte att kontakta oss."
+    },
+    {
+      "id": "3",
+      "answer": "Denna integritetspolicy gäller endast våra onlineaktiviteter och är giltig för besökare på vår webbplats med avseende på informationen som de delat och/eller samlar in i Fancode. Denna policy är inte tillämplig på information som samlas in offline eller via andra kanaler än denna webbplats."
+    }
+  ],
+  "headingTwo": "Samtycke",
+  "sectionTwo": [
+    {
+      "id": "1",
+      "answer": "Genom att använda vår webbplats samtycker du härmed till vår integritetspolicy och godkänner dess villkor."
+    },
+    { "id": "2", "answer": "Information vi samlar in" },
+    {
+      "id": "3",
+      "answer": "Den personliga information som du ombeds lämna, och skälen till varför du ombeds att tillhandahålla den, kommer att klargöras för dig när vi ber dig att lämna din personliga information."
+    },
+    {
+      "id": "4",
+      "answer": "Om du kontaktar oss direkt kan vi få ytterligare information om dig såsom ditt namn, e-postadress, telefonnummer, innehållet i meddelandet och/eller bilagor du kan skicka till oss och all annan information du kan välja att tillhandahålla."
+    },
+    {
+      "id": "5",
+      "answer": "När du registrerar dig för ett konto kan vi be om din kontaktinformation, inklusive uppgifter som namn, företagsnamn, adress, e-postadress och telefonnummer."
+    }
+  ],
+  "headingThree": "Hur vi använder din information",
+  "sectionThree": [
+    {
+      "id": "1",
+      "answer": "Vi använder informationen vi samlar in på olika sätt, inklusive för att:"
+    },
+    {
+      "id": "2",
+      "answer": "Tillhandahålla, driva och underhålla vår webbplats"
+    },
+    { "id": "3", "answer": "Förbättra, anpassa och utöka vår webbplats" },
+    {
+      "id": "4",
+      "answer": "Förstå och analysera hur du använder vår webbplats"
+    },
+    {
+      "id": "5",
+      "answer": "Utveckla nya produkter, tjänster, funktioner och funktionalitet"
+    },
+    {
+      "id": "6",
+      "answer": "Kommunicera med dig, antingen direkt eller genom någon av våra partners, inklusive för kundtjänst, för att förse dig med uppdateringar och annan information som rör webbplatsen och för marknadsförings- och reklamsyfte"
+    },
+    { "id": "7", "answer": "Skickar mejl till dig" },
+    { "id": "8", "answer": "Hitta och förhindra bedrägerier" }
+  ],
+  "headingFour": "Loggfiler",
+  "sectionFour": [
+    {
+      "id": "1",
+      "answer": "Fancode följer en standardprocedur för att använda loggfiler. Dessa filer loggar besökare när de besöker webbplatser. Alla webbhotell gör detta och en del av analysen av webbhotelltjänster. Informationen som samlas in av loggfiler inkluderar IP-adresser (Internet Protocol), webbläsartyp, Internetleverantör (ISP), datum- och tidsstämpel, referens-/utgångssidor och möjligen antalet klick. Dessa är inte kopplade till någon information som är personligt identifierbar. Syftet med informationen är att analysera trender, administrera webbplatsen, spåra användarnas rörelser på webbplatsen och samla in demografisk information."
+    }
+  ],
+  "headingFive": "Advertising Partners sekretesspolicyer",
+  "sectionFive": [
+    {
+      "id": "1",
+      "answer": "Du kan konsultera den här listan för att hitta sekretesspolicyn för var och en av Fancodes reklampartner."
+    },
+    {
+      "id": "2",
+      "answer": "Tredjeparts annonsservrar eller annonsnätverk använder teknologier som cookies, JavaScript eller Web Beacons som används i deras respektive annonser och länkar som visas på Fancode, som skickas direkt till användarnas webbläsare. De får automatiskt din IP-adress när detta inträffar. Dessa tekniker används för att mäta effektiviteten av deras reklamkampanjer och/eller för att anpassa annonsinnehållet som du ser på webbplatser som du besöker."
+    },
+    {
+      "id": "3",
+      "answer": "Observera att Fancode inte har tillgång till eller kontroll över dessa cookies som används av tredjepartsannonsörer."
+    },
+    { "id": "3", "answer": "Tredje parts sekretesspolicyer" },
+    {
+      "id": "4",
+      "answer": "Fancodes integritetspolicy gäller inte andra annonsörer eller webbplatser. Därför råder vi dig att konsultera respektive sekretesspolicy för dessa tredjepartsannonsservrar för mer detaljerad information. Det kan innehålla deras praxis och instruktioner om hur man väljer bort vissa alternativ."
+    },
+    {
+      "id": "5",
+      "answer": "Du kan välja att inaktivera cookies genom dina individuella webbläsaralternativ. För att få mer detaljerad information om cookiehantering med specifika webbläsare, kan den hittas på webbläsarens respektive webbplatser."
+    }
+  ],
+  "headingSix": "CCPA-sekretessrättigheter (sälj inte min personliga information)",
+  "sectionSix": [
+    {
+      "id": "1",
+      "answer": "Enligt CCPA, bland andra rättigheter, har konsumenter i Kalifornien rätt att:"
+    },
+    {
+      "id": "2",
+      "answer": "Begär att ett företag som samlar in en konsuments personuppgifter avslöjar de kategorier och specifika delar av personuppgifter som ett företag har samlat in om konsumenter."
+    },
+    {
+      "id": "3",
+      "answer": "Begär att ett företag raderar eventuella personuppgifter om konsumenten som ett företag har samlat in."
+    },
+    {
+      "id": "4",
+      "answer": "Begär att ett företag som säljer en konsuments personuppgifter inte säljer konsumentens personuppgifter."
+    },
+    {
+      "id": "5",
+      "answer": "Om du gör en förfrågan har vi en månad på oss att svara dig. Om du vill utöva någon av dessa rättigheter, vänligen kontakta oss."
+    }
+  ],
+  "headingSeven": "GDPR Dataskyddsrättigheter",
+  "sectionSeven": [
+    {
+      "id": "1",
+      "answer": "Vi vill se till att du är fullt medveten om alla dina dataskyddsrättigheter. Varje användare har rätt till följande:"
+    },
+    {
+      "id": "2",
+      "answer": "Rätt till tillgång – Du har rätt att begära kopior av dina personuppgifter. Vi kan ta ut en liten avgift för denna tjänst."
+    },
+    {
+      "id": "3",
+      "answer": "Rätten till rättelse – Du har rätt att begära att vi korrigerar all information som du anser är felaktig. Du har också rätt att begära att vi kompletterar den information du anser är ofullständig."
+    },
+    {
+      "id": "4",
+      "answer": "Rätten till radering – Du har rätt att begära att vi raderar dina personuppgifter, under vissa förutsättningar."
+    },
+    {
+      "id": "5",
+      "answer": "Rätten att begränsa behandlingen – Du har rätt att begära att vi begränsar behandlingen av dina personuppgifter, under vissa förutsättningar."
+    },
+    {
+      "id": "6",
+      "answer": "Rätt att invända mot behandling – Du har rätt att invända mot vår behandling av dina personuppgifter, under vissa förutsättningar."
+    },
+    {
+      "id": "7",
+      "answer": "Rätten till dataportabilitet – Du har rätt att begära att vi överför de uppgifter som vi har samlat in till en annan organisation, eller direkt till dig, under vissa förutsättningar."
+    },
+    {
+      "id": "8",
+      "answer": "Om du gör en förfrågan har vi en månad på oss att svara dig. Om du vill utöva någon av dessa rättigheter, vänligen kontakta oss."
+    }
+  ],
+  "headingEight": "Barninformation",
+  "sectionEight": [
+    {
+      "id": "1",
+      "answer": "En annan del av vår prioritet är att lägga till skydd för barn när de använder internet. Vi uppmuntrar föräldrar och vårdnadshavare att observera, delta i och/eller övervaka och vägleda deras onlineaktivitet."
+    },
+    {
+      "id": "2",
+      "answer": "Fancode samlar inte medvetet in någon personlig identifierbar information från barn under 13 år. Om du tror att ditt barn har lämnat denna typ av information på vår webbplats, rekommenderar vi starkt att du kontaktar oss omedelbart och vi kommer att göra vårt bästa för att snabbt ta bort sådan information från våra register."
+    }
+  ]
+}

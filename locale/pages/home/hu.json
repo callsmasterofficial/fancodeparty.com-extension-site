@@ -1,0 +1,174 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Hozzáadás", "free": "Ingyen van" },
+    "navBarHeading": "már elérhető Google Chrome-on, Microsoft Edge-en és Mozilla Firefoxon"
+  },
+  "section": {
+    "first": {
+      "heading": "Rajongói buli házigazdája: valós időben közvetítse a sporteseményeket világszerte",
+      "html": "A Fancode egy népszerű, sportközpontú digitális platform, amely a különféle sportesemények széleskörű lefedettségéről híres, elsősorban a krikett körül. Emellett élő közvetítést, pontszámokat, statisztikákat és híreket biztosít a felhasználóknak. A felhasználóbarát felülettel és a rajongói követelmények teljesítése iránti elkötelezettséggel büszkélkedő Fancode több mint 50 millió egyedi felhasználót gyűjtött össze, és 25 millió alkalmazásletöltést ért el. A kriketten túl a labdarúgás, a kosárlabda és a kabaddi is megtalálható. <br/><br/> Képzelje el, hogy igazi sportrajongó vagy, aki élvezi az eseményeket, és valós időben megoszthatja az élményt barátaival. Lépjen be a Fancode Party Extension-be – egy olyan megoldás, amely lehetővé teszi online streaming partijának lebonyolítását, akár 100 résztvevő szinkronizálásával világszerte. A streamelési élmény fokozása érdekében a bővítmény felhasználóbarát funkciókat is kínál. A <a href=\"/\"><b><u>Fancode Party</u></b></a> több mint 300 eseményt közvetített, köztük exkluzív nemzetközi krikettmérkőzéseket. <br/> <br/> Ezen túlmenően kiemelkedő sportligákkal és csapatokkal alakított ki partnerkapcsolatokat, és hivatalos árupartnerré vált olyan jelentős nevek számára, mint az IPL franchise, a BCCI, az NBA, a WWE és olyan tekintélyes futballklubok, mint a Liverpool. Ahogy folyamatosan bővíti és válogatja a személyre szabott tartalmat, a Fancode egy átfogó sportközpont, amely különféle sportágak rajongóit szolgálja ki.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646045102848-how-to-use-crunchyroll-party.mp4"
+    },
+    "second": {
+      "heading": "Hogyan rendezzünk egy rajongói partit online közvetítéshez?",
+      "subHeading": "Üdvözöljük az ideális helyen, ha egy Fancode Watch Party megrendezését tervezi. Itt minden fontos részletet megtudhat, amire szüksége van a személyre szabott streaming esemény elkészítéséhez. Habozás nélkül gyűjtse össze szeretteit, és élvezze a lenyűgöző filmeket és műsorokat tökéletes harmóniában, valós idejű szinkronizálásban és HD felbontásban. A legizgalmasabb rész? A távolság lehetővé teszi, hogy helyszíntől függetlenül valósággá tegye ezt a virtuális összejövetelt. Merüljünk el a folyamatban:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646045102848-how-to-use-crunchyroll-party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Telepítse a Fancode Party bővítményt",
+          "answer": "Kezdje utazását a Fancode Party bővítmény közvetlen letöltésével és telepítésével ezen a rendelkezésre álló <a href=\"https://chrome.google.com/webstore/detail/fancode-party/ggedddmcehccjajcnndmikemjghnlkgn\"><b><u> segítségével. /u></b></a> Ha a kézi telepítést részesíti előnyben, győződjön meg arról, hogy kompatibilis webböngészővel rendelkezik, mint például a Google Chrome vagy a Microsoft Edge, valamint egy olyan eszközt, amely támogatja ezt, például Mac számítógépet, Chromebookot vagy Windows rendszert."
+        },
+        {
+          "id": "2",
+          "question": "Rögzítse a Fancode Party-bővítményt",
+          "answer": "A telepítési lépés csak a kezdet; a kiterjesztés rögzítése a böngésző eszköztárához hasonlóan jelentős. Kattintson a Fancode Party bővítmény ikonjára, rögzítve azt a képernyő jobb felső sarkában. Ha az ikon megtalálása nehéznek bizonyul, kattintson a rejtvény ikonra, hogy felfedje"
+        },
+        {
+          "id": "3",
+          "question": "Jelentkezzen be Fancode fiókjába",
+          "answer": "Folytassa úgy, hogy személyes fiókjával bejelentkezik Fancode streaming platformjába. Ha fiókra van szüksége, hozzon létre egyet. Ne feledje, hogy a buli házigazdájának és résztvevőinek is be kell jelentkezniük. Ezenkívül minden érintett fél számára elengedhetetlen az aktív Fancode-előfizetés."
+        },
+        {
+          "id": "4",
+          "question": "Keresés, kijelölés és kezdés",
+          "answer": "Miután bejelentkezett, induljon el a Fancode streaming útjára úgy, hogy megkeresi és kiválasztja azt a filmet vagy műsort, amelyet társaival együtt szeretne nézni. A házigazdának le kell játszania a tartalmat egy pillanatra, mielőtt szünetelteti."
+        },
+        {
+          "id": "5",
+          "question": "Készítsen Fancode Party URL-t",
+          "answer": "A Fancode Watch Party légkör létrehozása, valamint a barátok és a család meghívása egyszerű egy kijelölt URL-lel. Nyissa meg webböngészőjét, aktiválja a Fancode Party bővítményt, és indítsa el az ünnepséget. Megjelenik egy felugró ablak, amely a \"BULI LÉTREHOZÁSA\" lehetőséget kínálja. Ez alatt láthatja a \"PARTY INDÍTÁSA\" gombot ugyanabban az ablakban. Kérjük, kattintson rá a meghívó URL-jének generálásához. Ossza meg ezt az URL-t vendégeivel, hogy zökkenőmentesen csatlakozhassanak a bulihoz."
+        },
+        {
+          "id": "6",
+          "question": "OSZD MEG A MEGHÍVÓ LINKET",
+          "answer": "Most már csak annyit kell tenned, hogy megosztod a generált Crunchyroll party linket azokkal a barátaiddal, akiket szeretnél az órapartikon."
+        },
+        {
+          "id": "7",
+          "question": "Csatlakozz a Fancode Partyhoz",
+          "answer": "Amikor a vendégek megkapják a Fancode Watch Party meghívó URL-jét, rákattintva csatlakozhatnak az ünnepséghez. Éppen így a Fancode Party részévé válnak. Sőt, az élmény fokozása érdekében: <br/> 1. Fontolja meg a pattogatott kukoricát és az italokat. <br/>2. Élvezze a filmet, műsort, sorozatot vagy bármilyen tartalmat, amelyet társaival együtt streamel.<br/>3. Használja ki a lehetőséget, hogy egyedi funkcióinak esszenciáját beépítse megosztott streamelési vállalkozásába. <br/>Itt egy felejthetetlen Fancode Watch Party!"
+        }
+      ]
+    },
+    "three": {
+      "heading": "A FanCode Party izgalmas és továbbfejlesztett jellemzői",
+      "subHeading": "Kérjük, ne tekintse teljesnek a partiját anélkül, hogy a lehető legtöbbet hozná ki annak lenyűgöző és lenyűgöző tulajdonságaiból. Ha kíváncsi ezekre a kivételes tulajdonságokra, szánjon egy percet a következő szakasz felfedezésére, amely az alapokat lefedi:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646045102848-how-to-use-crunchyroll-party.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Globális elérhetőség",
+          "answer": "A „Global Availability” funkció biztosítja, hogy a FanCode Watch Party világméretű szenzációvá váljon. Ez azt jelenti, hogy könnyedén megoszthat és streamelhet tartalmat a FanCode Party kiterjesztéssel szerte a világon. Ezenkívül ez a bővítmény világszerte elérhető, így bárhonnan csatlakozhat a szórakozáshoz. Ha a FanCode nem érhető el az Ön régiójában, egy VPN-szolgáltatás segíthet. Így aktiválhatja FanCode-előfizetését, és letöltheti a bővítményt"
+        },
+        {
+          "id": "t2",
+          "question": "Teljes ellenőrzés",
+          "answer": "Az esemény feletti irányítás fenntartása kulcsfontosságú, még akkor is, ha FanCode-partiról van szó. A házigazda aktiválhatja a \"Csak én rendelkezem\" funkciót, hogy hatalmat gyakoroljon a pártja felett. Ez felhatalmazza a gazdagépet olyan beállítások kezelésére, mint a lejátszás, szünet, visszatekerés, előre vagy folytatás a videó lejátszása közben."
+        },
+        {
+          "id": "t3",
+          "question": "Valós idejű szinkronizálás",
+          "answer": "A FanCode Party elérhetősége kiterjed a streaming tartalmak szinkronizálására a felhasználók számára világszerte. Nem áll meg a szinkronizálásnál; nagyfelbontású képminőségben is kínál tartalmat. Ez azt jelenti, hogy kivételes minőségben nézhet és oszthat meg videókat, miközben élvezheti a valós idejű szinkronizálást a FanCode Watch Party alatt."
+        },
+        {
+          "id": "t4",
+          "question": "Élő csoportos interakció",
+          "answer": "A FanCode Party túlmutat a puszta streamelésen az „Élő csoportos interakció” funkcióval. Ezenkívül lehetővé teszi, hogy élénk beszélgetéseket folytathasson barátaival és családjával, miközben élvezi a tartalmat. A csevegődoboz kényelmesen a képernyő oldalsó panelén található, lehetővé téve megjegyzések, vélemények, mérföldkövek megosztását és még az üzenetekre való válaszadást is."
+        },
+        {
+          "id": "t5",
+          "question": "Személyre szabott profilok",
+          "answer": "Ha különlegessé szeretnéd tenni a FanCode Watch Party-t, akkor a „Személyre szabott profilok” funkció a te dolgod. Sőt, hogy növelje a parti egyediségét azáltal, hogy tetszetős avatarokat választ profilikonként. Sőt, tűnjön ki egy kreatív és vonzó becenévvel, amely tükrözi stílusát."
+        },
+        {
+          "id": "t6",
+          "question": "Költséghatékony szórakozás",
+          "answer": "A pénzügyi gondok segíteni fognak az élményben, mivel a FanCode Party bővítmény telepítése és elérése teljesen ingyenes. A legjobb rész? A FanCode Party minden fantasztikus funkciója minden felhasználó számára ingyenesen elérhető. Élvezze tehát a minőségi időt szerettei szórakoztatásával világszerte anélkül, hogy egy fillért költene."
+        }
+      ]
+    },
+    "forth": {
+      "heading": "A bővítmény hibaelhárítása: -",
+      "subHeading": "A Fancode Party bővítmény zökkenőmentes teljesítményéről ismert, de alkalmanként bármilyen online összejövetelnél felmerülhetnek problémák. A problémamentes élmény érdekében vegye figyelembe ezeket a hibaelhárítási tippeket. Ezeket a hibaelhárítási tippeket szem előtt tartva zökkenőmentes és élvezetes FanCode Party élményben lehet részed. Kezdjük el:",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Jelentkezzen be Fancode-fiókjába",
+          "answer": "A buli indítása előtt győződjön meg arról, hogy be van jelentkezve Fancode-fiókjába. Ez a lépés elengedhetetlen a zökkenőmentes részvételhez."
+        },
+        {
+          "id": "t2",
+          "question": "Telepítse a FANCODE PARTY bővítményt",
+          "answer": "Ellenőrizze még egyszer, hogy megfelelően telepítette-e a Fancode Party bővítményt eszközére. Ez a bővítmény kulcsfontosságú a pártok fogadásához és csatlakozásához."
+        },
+        {
+          "id": "t3",
+          "question": "Ellenőrizze a partimeghívó URL-címét",
+          "answer": "Gondosan vizsgálja meg a partimeghívó URL-jét, hogy megbizonyosodjon annak pontosságáról. A helytelen vagy hiányos URL kapcsolati problémákat okozhat."
+        },
+        {
+          "id": "t4",
+          "question": "Tekintse át a gazdagép beállításait",
+          "answer": "Szánjon egy percet a házigazda beállításainak áttekintésére. Előfordulhat, hogy egyes műveletek a gazdagép preferenciái alapján korlátozottak. Ha megérti ezeket a beállításokat, még jobban élvezheti a Fancode Partyt."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Gyakran Ismételt Kérdések",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Mi az a Fancode Party, és hogyan működik?",
+        "answer": "A Fancode Watch Party egy online streaming platform, amely lehetővé teszi a személyre szabott streaming parti megrendezését, szinkronizálva az élményt akár 100 résztvevő számára világszerte. Ezenkívül lehetővé teszi, hogy valós idejű filmeket, műsorokat és sporteseményeket élvezhessen barátaival és családjával. A Fancode Party bővítmény segítségével virtuális összejövetelt hozhat létre tartózkodási helyétől függetlenül"
+      },
+      {
+        "id": "f2",
+        "question": "Hogyan telepíthetem a Fancode Party bővítményt?",
+        "answer": "Két telepítési lehetőség közül választhat a Fancode Party bővítményhez. Először is közvetlenül letöltheti a mellékelt linkről. Másik megoldásként manuálisan telepíthet egy kompatibilis webböngészőt, például a Google Chrome-ot vagy a Microsoft Edge-t. Győződjön meg arról is, hogy eszköze támogatja a bővítményt, például Mac, Chromebook vagy Windows rendszert."
+      },
+      {
+        "id": "f3",
+        "question": "Kötelező a Fancode előfizetés a Fancode Party használatához?",
+        "answer": "Az aktív Fancode előfizetés feltétlenül előfeltétele mind a házigazdának, mind a Fancode Watch Party-n részt vevő résztvevőknek. Az előfizetés garantálja a hozzáférést a platform tartalmához és funkcióihoz, és minden érintett fél számára kellemes streamelési élményt biztosít."
+      },
+      {
+        "id": "f4",
+        "question": "Milyen funkciókat kínál a Fancode Party az élmény fokozása érdekében?",
+        "answer": "A Fancode Watch Party egy sor magával ragadó funkciót mutat be a streamelési vállalkozás fokozása érdekében, többek között:",
+        "p1": "Globális elérhetőség: Először is, a bővítmény lehetővé teszi a tartalom megosztását és streamingjét világszerte, bárhonnan elérhető.",
+        "p2": "Teljes vezérlés: A gazdagép kizárólagosan szabályozhatja a beállításokat, például lejátszás, szünet, visszatekerés és előretekerés videólejátszás közben.",
+        "p3": "Valós idejű szinkronizálás",
+        "p4": "Élő csoportos interakció: Vegyen részt élő beszélgetésekben barátaival és családjával a csoportos csevegés funkción keresztül.",
+        "p5": "Személyre szabott profilok: Szabja személyre profilját vonzó avatarokkal és ötletes becenevekkel.",
+        "p6": "Költséghatékony: A Fancode Party bővítmény és funkcióinak telepítése és használata teljesen költségmentes."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Tudasd velünk.",
+    "anyQuestions": "Kérdései vannak? Látogassa meg támogatási oldalunkat",
+    "blog": "Blog",
+    "privacy": "Magánélet",
+    "popularSearches": "Népszerű keresések",
+    "disclaimer": "Jogi nyilatkozat",
+    "disclaimerContent": "A Fancode Party Extension zökkenőmentes streamelési élményt kínál, de időnként problémák merülhetnek fel. Ügyeljen arra, hogy kövesse a hibaelhárítási tippeket a problémamentes esemény érdekében. Élvezze a Fancode Party-t.",
+    "footerTags": [
+      "Fancode Party kiterjesztés",
+      "Fancode Party Chrome-bővítmény",
+      "hogyan kell használni a Fancode Partyt",
+      "telepítse a Fancode Partyt",
+      "Fancode Party",
+      "Fancode óraparti",
+      "Fancode Party kiterjesztés",
+      "Fancode Party Chrome-bővítmény",
+      "Nézze meg a Fancode Partyt",
+      "Útmutató a Fancode Partyhoz",
+      "hogyan kell használni a Fancode Partyt",
+      "Hogyan készítsünk Fancode Party-t",
+      "Hogyan készítsünk Fancode-partit",
+      "Hogyan nézzünk együtt Fancode-ot"
+    ]
+  }
+}

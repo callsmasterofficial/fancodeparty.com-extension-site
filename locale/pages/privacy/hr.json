@@ -1,0 +1,166 @@
+{
+  "headingOne": "Pravila privatnosti za Fancode",
+  "sectionOne": [
+    {
+      "id": "1",
+      "answer": "U Fancodeu, dostupnom na https://www.fancodeparty.com/, jedan od naših glavnih prioriteta je privatnost naših posjetitelja. Ovaj dokument o Pravilima privatnosti sadrži vrste informacija koje prikuplja i bilježi Fancode te kako ih koristimo."
+    },
+    {
+      "id": "2",
+      "answer": "Ako imate dodatnih pitanja ili trebate više informacija o našoj Politici privatnosti, slobodno nas kontaktirajte."
+    },
+    {
+      "id": "3",
+      "answer": "Ova Pravila o privatnosti odnose se samo na naše online aktivnosti i vrijede za posjetitelje naše web stranice s obzirom na informacije koje su podijelili i/ili prikupili u Fancodeu. Ovo pravilo nije primjenjivo na informacije prikupljene izvan mreže ili putem kanala koji nisu ova web stranica."
+    }
+  ],
+  "headingTwo": "Pristanak",
+  "sectionTwo": [
+    {
+      "id": "1",
+      "answer": "Korištenjem naše web stranice, ovime pristajete na našu Politiku privatnosti i slažete se s njezinim uvjetima."
+    },
+    { "id": "2", "answer": "Podaci koje prikupljamo" },
+    {
+      "id": "3",
+      "answer": "Osobni podaci koje se od vas traže i razlozi zbog kojih se od vas traže da ih dostavite bit će vam jasni u trenutku kada od vas zatražimo da dostavite svoje osobne podatke."
+    },
+    {
+      "id": "4",
+      "answer": "Ako nas kontaktirate izravno, mogli bismo primiti dodatne informacije o vama kao što su vaše ime, adresa e-pošte, telefonski broj, sadržaj poruke i/ili privitaka koje nam možete poslati te bilo koje druge informacije koje možete dati."
+    },
+    {
+      "id": "5",
+      "answer": "Kada se registrirate za račun, možemo tražiti vaše podatke za kontakt, uključujući stavke kao što su ime, naziv tvrtke, adresa, adresa e-pošte i telefonski broj."
+    }
+  ],
+  "headingThree": "Kako koristimo vaše podatke",
+  "sectionThree": [
+    {
+      "id": "1",
+      "answer": "Podatke koje prikupljamo koristimo na razne načine, uključujući za:"
+    },
+    {
+      "id": "2",
+      "answer": "Osigurati, upravljati i održavati našu web stranicu"
+    },
+    {
+      "id": "3",
+      "answer": "Poboljšajte, personalizirajte i proširite našu web stranicu"
+    },
+    {
+      "id": "4",
+      "answer": "Razumjeti i analizirati kako koristite našu web stranicu"
+    },
+    {
+      "id": "5",
+      "answer": "Razvijte nove proizvode, usluge, značajke i funkcionalnosti"
+    },
+    {
+      "id": "6",
+      "answer": "Komunicirati s vama, bilo izravno ili putem jednog od naših partnera, uključujući službu za korisnike, kako bismo vam pružili ažuriranja i druge informacije u vezi s web-mjestom te u marketinške i promotivne svrhe"
+    },
+    { "id": "7", "answer": "Šalje vam e-poštu" },
+    { "id": "8", "answer": "Pronađite i spriječite prijevaru" }
+  ],
+  "headingFour": "Log datoteke",
+  "sectionFour": [
+    {
+      "id": "1",
+      "answer": "Fancode slijedi standardnu ​​proceduru korištenja log datoteka. Ove datoteke bilježe posjetitelje kada posjećuju web stranice. Sve hosting tvrtke to rade i dio analize hosting usluga. Podaci prikupljeni datotekama dnevnika uključuju adrese internetskog protokola (IP), vrstu preglednika, davatelja internetskih usluga (ISP), oznaku datuma i vremena, stranice za upućivanje/izlaz i eventualni broj klikova. Oni nisu povezani s bilo kakvim podacima koji mogu osobno identificirati. Svrha informacija je analiza trendova, administriranje stranice, praćenje kretanja korisnika na web stranici i prikupljanje demografskih podataka."
+    }
+  ],
+  "headingFive": "Pravila o privatnosti partnera za oglašavanje",
+  "sectionFive": [
+    {
+      "id": "1",
+      "answer": "Možete pogledati ovaj popis kako biste pronašli Pravila privatnosti za svakog oglašivačkog partnera Fancodea."
+    },
+    {
+      "id": "2",
+      "answer": "Oglasni poslužitelji ili oglasne mreže trećih strana koriste tehnologije poput kolačića, JavaScripta ili web svjetionika koje se koriste u njihovim oglasima i vezama koje se pojavljuju na Fancodeu, a koje se šalju izravno u korisnički preglednik. Oni automatski primaju vašu IP adresu kada se to dogodi. Te se tehnologije koriste za mjerenje učinkovitosti njihovih reklamnih kampanja i/ili za personalizaciju reklamnog sadržaja koji vidite na web stranicama koje posjećujete."
+    },
+    {
+      "id": "3",
+      "answer": "Imajte na umu da Fancode nema pristup niti kontrolu nad ovim kolačićima koje koriste oglašivači trećih strana."
+    },
+    { "id": "3", "answer": "Pravila privatnosti trećih strana" },
+    {
+      "id": "4",
+      "answer": "Politika privatnosti Fancodea ne odnosi se na druge oglašivače ili web stranice. Stoga vam savjetujemo da za detaljnije informacije pogledate odnosnu Politiku privatnosti ovih poslužitelja oglasa trećih strana. Može uključivati ​​njihovu praksu i upute o tome kako isključiti određene opcije."
+    },
+    {
+      "id": "5",
+      "answer": "Možete odabrati da onemogućite kolačiće putem individualnih opcija preglednika. Da biste saznali detaljnije informacije o upravljanju kolačićima s određenim web preglednicima, možete ih pronaći na odgovarajućim web stranicama preglednika."
+    }
+  ],
+  "headingSix": "CCPA prava na privatnost (nemoj prodavati moje osobne podatke)",
+  "sectionSix": [
+    {
+      "id": "1",
+      "answer": "Prema CCPA-u, među ostalim pravima, potrošači u Kaliforniji imaju pravo na:"
+    },
+    {
+      "id": "2",
+      "answer": "Zahtijevati da tvrtka koja prikuplja osobne podatke potrošača otkrije kategorije i određene dijelove osobnih podataka koje je tvrtka prikupila o potrošačima."
+    },
+    {
+      "id": "3",
+      "answer": "Zahtijevati da tvrtka izbriše sve osobne podatke o potrošaču koje je tvrtka prikupila."
+    },
+    {
+      "id": "4",
+      "answer": "Zahtjevajte da tvrtka koja prodaje osobne podatke potrošača ne prodaje osobne podatke potrošača."
+    },
+    {
+      "id": "5",
+      "answer": "Ako postavite zahtjev, imamo mjesec dana da vam odgovorimo. Ako želite ostvariti bilo koje od ovih prava, obratite nam se."
+    }
+  ],
+  "headingSeven": "GDPR prava na zaštitu podataka",
+  "sectionSeven": [
+    {
+      "id": "1",
+      "answer": "Željeli bismo biti sigurni da ste u potpunosti svjesni svih svojih prava na zaštitu podataka. Svaki korisnik ima pravo na sljedeće:"
+    },
+    {
+      "id": "2",
+      "answer": "Pravo na pristup – imate pravo zatražiti kopije svojih osobnih podataka. Možemo vam naplatiti malu naknadu za ovu uslugu."
+    },
+    {
+      "id": "3",
+      "answer": "Pravo na ispravak – imate pravo zahtijevati da ispravimo bilo koju informaciju za koju smatrate da je netočna. Također imate pravo tražiti da dopunimo podatke za koje smatrate da su nepotpuni."
+    },
+    {
+      "id": "4",
+      "answer": "Pravo na brisanje – imate pravo zatražiti da izbrišemo vaše osobne podatke, pod određenim uvjetima."
+    },
+    {
+      "id": "5",
+      "answer": "Pravo na ograničenje obrade – imate pravo zatražiti da ograničimo obradu Vaših osobnih podataka, pod određenim uvjetima."
+    },
+    {
+      "id": "6",
+      "answer": "Pravo na prigovor na obradu – imate pravo na prigovor na našu obradu vaših osobnih podataka, pod određenim uvjetima."
+    },
+    {
+      "id": "7",
+      "answer": "Pravo na prenosivost podataka – imate pravo zatražiti da podatke koje smo prikupili prenesemo drugoj organizaciji ili izravno vama, pod određenim uvjetima."
+    },
+    {
+      "id": "8",
+      "answer": "Ako postavite zahtjev, imamo mjesec dana da vam odgovorimo. Ako želite ostvariti bilo koje od ovih prava, obratite nam se."
+    }
+  ],
+  "headingEight": "Informacije za djecu",
+  "sectionEight": [
+    {
+      "id": "1",
+      "answer": "Još jedan dio našeg prioriteta je zaštita djece tijekom korištenja interneta. Potičemo roditelje i skrbnike da promatraju, sudjeluju i/ili nadziru i usmjeravaju svoje online aktivnosti."
+    },
+    {
+      "id": "2",
+      "answer": "Fancode svjesno ne prikuplja nikakve osobne podatke od djece mlađe od 13 godina. Ako mislite da je vaše dijete dalo ovu vrstu informacija na našoj web stranici, preporučujemo vam da nas odmah kontaktirate, a mi ćemo dati sve od sebe da ih odmah uklonimo takve informacije iz naše evidencije."
+    }
+  ]
+}

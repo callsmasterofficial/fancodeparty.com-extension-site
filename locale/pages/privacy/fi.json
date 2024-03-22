@@ -1,0 +1,163 @@
+{
+  "headingOne": "Fancoden tietosuojakäytäntö",
+  "sectionOne": [
+    {
+      "id": "1",
+      "answer": "Fancodessa, johon pääsee osoitteesta https://www.fancodeparty.com/, yksi tärkeimmistä prioriteeteistamme on vierailijoidemme yksityisyys. Tämä tietosuojakäytäntöasiakirja sisältää tietoja, joita Fancode kerää ja tallentaa, ja kuinka käytämme niitä."
+    },
+    {
+      "id": "2",
+      "answer": "Jos sinulla on lisäkysymyksiä tai tarvitset lisätietoja tietosuojakäytännöstämme, älä epäröi ottaa meihin yhteyttä."
+    },
+    {
+      "id": "3",
+      "answer": "Tämä tietosuojakäytäntö koskee vain verkkotoimintaamme ja koskee verkkosivustomme vierailijoita niiden tietojen osalta, joita he jakavat ja/tai keräävät Fancodessa. Tätä käytäntöä ei sovelleta tietoihin, jotka on kerätty offline-tilassa tai muiden kanavien kuin tämän verkkosivuston kautta."
+    }
+  ],
+  "headingTwo": "Suostumus",
+  "sectionTwo": [
+    {
+      "id": "1",
+      "answer": "Käyttämällä verkkosivustoamme hyväksyt tietosuojakäytäntömme ja sen ehdot."
+    },
+    { "id": "2", "answer": "Keräämämme tiedot" },
+    {
+      "id": "3",
+      "answer": "Henkilötiedot, jotka sinua pyydetään antamaan, ja syyt, miksi sinua pyydetään antamaan ne, ilmoitetaan sinulle, kun pyydämme sinua antamaan henkilötietosi."
+    },
+    {
+      "id": "4",
+      "answer": "Jos otat meihin yhteyttä suoraan, saatamme saada sinusta lisätietoja, kuten nimesi, sähköpostiosoitteesi, puhelinnumerosi, meille lähettämäsi viestin ja/tai liitteiden sisältö ja kaikki muut tiedot, jotka voit antaa."
+    },
+    {
+      "id": "5",
+      "answer": "Kun rekisteröidyt Tilille, voimme pyytää yhteystietojasi, mukaan lukien nimi, yrityksen nimi, osoite, sähköpostiosoite ja puhelinnumero."
+    }
+  ],
+  "headingThree": "Kuinka käytämme tietojasi",
+  "sectionThree": [
+    {
+      "id": "1",
+      "answer": "Käytämme keräämiämme tietoja eri tavoilla, mukaan lukien:"
+    },
+    {
+      "id": "2",
+      "answer": "Tarjoamme, käytämme ja ylläpidämme verkkosivustoamme"
+    },
+    { "id": "3", "answer": "Paranna, personoi ja laajenna verkkosivustoamme" },
+    {
+      "id": "4",
+      "answer": "Ymmärrä ja analysoi, kuinka käytät verkkosivustoamme"
+    },
+    {
+      "id": "5",
+      "answer": "Kehitä uusia tuotteita, palveluita, ominaisuuksia ja toimintoja"
+    },
+    {
+      "id": "6",
+      "answer": "kommunikoida kanssasi joko suoraan tai kumppanimme kautta, myös asiakaspalvelua varten, tarjotaksemme sinulle päivityksiä ja muita verkkosivustoon liittyviä tietoja sekä markkinointi- ja myynninedistämistarkoituksia varten"
+    },
+    { "id": "7", "answer": "Lähetä sinulle sähköposteja" },
+    { "id": "8", "answer": "Etsi ja estä petokset" }
+  ],
+  "headingFour": "Lokitiedostot",
+  "sectionFour": [
+    {
+      "id": "1",
+      "answer": "Fancode noudattaa normaalia lokitiedostojen käyttöä. Nämä tiedostot kirjaavat kävijöitä, kun he vierailevat verkkosivustoilla. Kaikki hosting-yritykset tekevät tämän ja osan isännöintipalveluiden analytiikkaa. Lokitiedostojen keräämiä tietoja ovat IP-osoitteet, selaimen tyyppi, Internet-palveluntarjoaja (ISP), päivämäärä- ja aikaleima, viittaus-/poistumissivut ja mahdollisesti napsautusten määrä. Näitä ei ole linkitetty mihinkään tietoihin, jotka ovat henkilökohtaisesti tunnistettavissa. Tietojen tarkoitus on analysoida trendejä, hallinnoida sivustoa, seurata käyttäjien liikkumista sivustolla ja kerätä väestötietoja."
+    }
+  ],
+  "headingFive": "Advertising Partnersin tietosuojakäytännöt",
+  "sectionFive": [
+    {
+      "id": "1",
+      "answer": "Voit tutustua tähän luetteloon löytääksesi jokaisen Fancoden mainoskumppanin tietosuojakäytännön."
+    },
+    {
+      "id": "2",
+      "answer": "Kolmannen osapuolen mainospalvelimet tai mainosverkostot käyttävät teknologioita, kuten evästeitä, JavaScriptiä tai verkkojäljitteitä, joita käytetään niiden vastaavissa mainoksissa ja Fancodessa näkyvissä linkeissä, jotka lähetetään suoraan käyttäjän selaimeen. He saavat automaattisesti IP-osoitteesi, kun tämä tapahtuu. Näitä tekniikoita käytetään heidän mainoskampanjoidensa tehokkuuden mittaamiseen ja/tai vierailemillasi verkkosivustoilla näkemäsi mainossisällön personointiin."
+    },
+    {
+      "id": "3",
+      "answer": "Huomaa, että Fancodella ei ole pääsyä tai hallintaa näihin evästeisiin, joita kolmannen osapuolen mainostajat käyttävät."
+    },
+    { "id": "3", "answer": "Kolmannen osapuolen tietosuojakäytännöt" },
+    {
+      "id": "4",
+      "answer": "Fancoden tietosuojakäytäntö ei koske muita mainostajia tai verkkosivustoja. Suosittelemme sinua tutustumaan näiden kolmannen osapuolen mainospalvelimien tietosuojakäytäntöihin saadaksesi tarkempia tietoja. Se voi sisältää heidän käytäntöjään ja ohjeita siitä, kuinka tietyt vaihtoehdot poistetaan käytöstä."
+    },
+    {
+      "id": "5",
+      "answer": "Voit poistaa evästeet käytöstä yksittäisten selaimesi asetusten kautta. Tarkempia tietoja evästeiden hallinnasta tietyillä verkkoselaimilla löydät selaimen vastaavilta verkkosivustoilta."
+    }
+  ],
+  "headingSix": "CCPA:n tietosuojaoikeudet (älä myy henkilötietojani)",
+  "sectionSix": [
+    {
+      "id": "1",
+      "answer": "CCPA:n mukaan Kalifornian kuluttajilla on muun muassa oikeus:"
+    },
+    {
+      "id": "2",
+      "answer": "Pyytää, että kuluttajan henkilötietoja keräävä yritys paljastaa henkilötietojen luokat ja tietyt osat, joita yritys on kerännyt kuluttajista."
+    },
+    {
+      "id": "3",
+      "answer": "Pyydä yritystä poistamaan kaikki yrityksen keräämät kuluttajaa koskevat henkilötiedot."
+    },
+    {
+      "id": "4",
+      "answer": "Pyytää, että kuluttajan henkilötietoja myyvä yritys ei myy kuluttajan henkilötietoja."
+    },
+    {
+      "id": "5",
+      "answer": "Jos teet pyynnön, meillä on kuukausi aikaa vastata sinulle. Jos haluat käyttää jotakin näistä oikeuksista, ota meihin yhteyttä."
+    }
+  ],
+  "headingSeven": "GDPR:n tietosuojaoikeudet",
+  "sectionSeven": [
+    {
+      "id": "1",
+      "answer": "Haluamme varmistaa, että olet täysin tietoinen kaikista tietosuojaoikeuksistasi. Jokaisella käyttäjällä on oikeus seuraavaan:"
+    },
+    {
+      "id": "2",
+      "answer": "Oikeus tutustua – Sinulla on oikeus pyytää kopiot henkilötiedoistasi. Saatamme veloittaa sinulta pienen maksun tästä palvelusta."
+    },
+    {
+      "id": "3",
+      "answer": "Oikeus oikaisuun – Sinulla on oikeus pyytää, että korjaamme kaikki tiedot, jotka uskot olevan virheellisiä. Sinulla on myös oikeus pyytää, että täydennämme tiedot, jotka uskot olevan puutteellisia."
+    },
+    {
+      "id": "4",
+      "answer": "Oikeus tietojen poistamiseen – Sinulla on oikeus pyytää, että poistamme henkilötietosi tietyin edellytyksin."
+    },
+    {
+      "id": "5",
+      "answer": "Oikeus rajoittaa käsittelyä – Sinulla on oikeus pyytää meitä rajoittamaan henkilötietojesi käsittelyä tietyin edellytyksin."
+    },
+    {
+      "id": "6",
+      "answer": "Oikeus vastustaa käsittelyä – Sinulla on oikeus vastustaa henkilötietojesi käsittelyä tietyin edellytyksin."
+    },
+    {
+      "id": "7",
+      "answer": "Oikeus tietojen siirrettävyyteen – Sinulla on oikeus pyytää, että siirrämme keräämämme tiedot toiselle organisaatiolle tai suoraan sinulle tietyin edellytyksin."
+    },
+    {
+      "id": "8",
+      "answer": "Jos teet pyynnön, meillä on kuukausi aikaa vastata sinulle. Jos haluat käyttää jotakin näistä oikeuksista, ota meihin yhteyttä."
+    }
+  ],
+  "headingEight": "Lasten tiedot",
+  "sectionEight": [
+    {
+      "id": "1",
+      "answer": "Toinen osa prioriteettiamme on lasten suojan lisääminen Internetin käytön aikana. Kannustamme vanhempia ja huoltajia tarkkailemaan, osallistumaan ja/tai seuraamaan ja ohjaamaan heidän verkkotoimintaansa."
+    },
+    {
+      "id": "2",
+      "answer": "Fancode ei tietoisesti kerää henkilökohtaisia ​​tunnistetietoja alle 13-vuotiailta lapsilta. Jos uskot lapsesi antaneen tällaisia ​​tietoja verkkosivustollamme, kehotamme sinua ottamaan meihin yhteyttä välittömästi ja teemme parhaamme poistaaksemme tiedot viipymättä. tällaisia ​​tietoja rekisteristämme."
+    }
+  ]
+}

@@ -1,8 +1,7 @@
 import { useState } from 'react'
-import siteConfig from '../siteConfig'
 import CustomAccordion from './CustomAccordion'
 
-function Fask_question() {
+function Fask_question({ home }) {
   const [show, setShow] = useState('')
 
   function toggleFunc(item) {
@@ -16,12 +15,12 @@ function Fask_question() {
           {/* text section */}
           <div className="f-ask-box  mb-10 flex items-center justify-center border-b-2  border-white">
             <h4 className="primary_text_color mb-5 p-2 pt-5 text-2xl font-semibold md:text-3xl">
-              Frequently Asked Questions
+              {home.faq.heading}
             </h4>
           </div>
 
           <div className="accordion" id="accordionExample">
-            {siteConfig.faq.accordian.map((item) => (
+            {home.faq.accordian.map((item) => (
               <div className="accordion-item" key={item.id}>
                 <CustomAccordion
                   item={item}
