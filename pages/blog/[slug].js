@@ -6,20 +6,24 @@ import Banner from '../../components/Banner'
 import db from '../../config/db'
 import Blog from '../../models/blog'
 import siteConfig from '../../siteConfig'
+import { getHome } from '../../locale/index'
 const site = siteConfig.siteId
+
 export async function getStaticPaths() {
   return {
     paths: [],
     fallback: true, // false or 'blocking'
   }
 }
-export async function getStaticProps({ params: { slug } }) {
+export async function getStaticProps({ params: { slug }, locale }) {
+  const home = getHome(locale)
   try {
     db()
     const blog = await Blog.findOne({ site, slug }).populate('cat')
     const data = JSON.parse(JSON.stringify(blog))
     return {
       props: {
+        home,
         meta: {
           title: data.title,
           description: data.meta_description,
@@ -42,13 +46,17 @@ export async function getStaticProps({ params: { slug } }) {
   }
 }
 
-function blog({ data }) {
+function blog({ data, home = {} }) {
   return (
     <div className="blogmore">
-      <Navbar />
-      <Banner />
-      {data && <Blogmore data={data} />}
-      <Footer />
+      {home.header && home.footer && (
+        <>
+          <Navbar installBtn={home?.header?.installBtn} />
+          <Banner heading={home?.header?.navBarHeading} />
+          {data && <Blogmore data={data} />}
+          <Footer installBtn={home?.header?.installBtn} footer={home?.footer} />
+        </>
+      )}
     </div>
   )
 }

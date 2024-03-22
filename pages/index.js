@@ -4,19 +4,21 @@ import Text from '../components/Text'
 import Text2 from '../components/Text2'
 import Footer from '../components/Footer'
 import Script from 'next/script'
-import Video_content from '../components/Video_content'
+// import Video_content from '../components/Video_content'
 import Fask_question from '../components/Fask_ques'
+import { getAllmeta, getHome } from '../locale/index'
 
-export async function getStaticProps() {
+export async function getStaticProps({ locale }) {
+  const home = getHome(locale)
+  const allmeta = getAllmeta(locale)
   return {
     props: {
+      home,
+      allmeta,
       meta: {
-        title:
-          'Host Fancode Party: Stream Sports Events Worldwide In Real Time',
-        description:
-          'Host global streaming parties with Fancode Party Extension & enjoy real-time HD sync, controllability, live chat or personalized profiles. Free and fun for all. ',
-        keywords:
-          'Cricket live,Fancode Party,Fancode Party Extension, Fancode Party Chrome Extension, how to use Fancode Party, install Fancode Party, Fancode Party, Fancode watch party, Fancode Party Extension, Fancode Party Chrome Extension, Watch Fancode Party, Guide to Fancode Party, how to use Fancode Party, How to Make Fancode Party, How to Make a Fancode Party, How to Watch Fancode Together',
+        title: allmeta.homeMetaTitle,
+        description: allmeta.homeMetadescription,
+        keywords: allmeta.homeMetakeywords,
         pageUrl: 'https://fancodeparty.com',
         featuredImage: '/logo.png',
       },
@@ -24,19 +26,19 @@ export async function getStaticProps() {
   }
 }
 
-const Home = () => {
+const Home = ({ home }) => {
   return (
     <div className="w-screen">
       <Script src="https://cdn.tailwindcss.com" />
 
-      <Navbar />
-      <Banner />
+      <Navbar installBtn={home.header.installBtn} />
+      <Banner heading={home.header.navBarHeading} />
       {/* <ImageIcon/> */}
-      <Text />
-      <Text2 />
-      <Video_content />
-      <Fask_question />
-      <Footer />
+      <Text installBtn={home.header.installBtn} home={home} />
+      <Text2 installBtn={home.header.installBtn} home={home} />
+      {/* <Video_content /> */}
+      <Fask_question home={home} />
+      <Footer installBtn={home.header.installBtn} footer={home.footer} />
 
       <Script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></Script>
     </div>

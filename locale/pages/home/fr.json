@@ -1,0 +1,174 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Ajouter à", "free": "Ce est gratuit" },
+    "navBarHeading": "est désormais disponible sur Google Chrome, Microsoft Edge et Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Organisez une soirée Fancode : diffusez des événements sportifs dans le monde entier en temps réel",
+      "html": "Fancode est une plateforme numérique populaire axée sur le sport, réputée pour sa couverture étendue de divers événements sportifs, principalement centrés sur le cricket. En outre, il fournit aux utilisateurs une diffusion en direct, des scores, des statistiques et des actualités. Bénéficiant d'une interface conviviale et d'un engagement fort à répondre aux exigences des fans, Fancode a rassemblé plus de 50 millions d'utilisateurs uniques et réalisé 25 millions de téléchargements d'applications. Au-delà du cricket, sa couverture couvre le football, le basket-ball et le kabaddi. <br/><br/> Imaginez être un véritable passionné de sport qui apprécie les événements et peut partager l'expérience avec ses amis en temps réel. Entrez Fancode Party Extension, une solution qui vous permet d'héberger votre soirée de streaming en ligne, en synchronisant l'expérience entre jusqu'à 100 participants dans le monde. Également pour améliorer votre expérience de streaming, l'extension offre des fonctionnalités conviviales. <a href=\"/\"><b><u>Fancode Party</u></b></a> a diffusé plus de 300 événements, y compris des matchs de cricket internationaux exclusifs. <br/> <br/> De plus, elle a noué des partenariats avec des ligues et des équipes sportives de premier plan, devenant ainsi un partenaire commercial officiel de grands noms comme les franchises IPL, la BCCI, la NBA, la WWE et des clubs de football prestigieux comme Liverpool. Alors qu'il continue de développer et de proposer du contenu sur mesure, Fancode est un centre sportif complet destiné aux passionnés de divers sports.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646045102848-how-to-use-crunchyroll-party.mp4"
+    },
+    "second": {
+      "heading": "Comment organiser une soirée Fancode pour diffuser en ligne ?",
+      "subHeading": "Bienvenue dans la destination idéale si vous envisagez d'organiser une Fancode Watch Party. Ici, vous découvrirez tous les détails essentiels dont vous avez besoin pour créer votre événement de streaming personnalisé. Rassemblez vos proches sans hésitation et savourez des films et des émissions captivants en parfaite harmonie, synchronisation en temps réel et résolution HD. La partie la plus excitante ? La distance vous permettra de faire de ce rassemblement virtuel une réalité quel que soit le lieu. Passons au processus :",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646045102848-how-to-use-crunchyroll-party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Installez l'extension Fancode Party",
+          "answer": "Commencez votre voyage en téléchargeant et en installant directement l'extension Fancode Party via ce <a href=\"https://chrome.google.com/webstore/detail/fancode-party/ggedddmcehccjajcnndmikemjghnlkgn\"><b><u> cliquez ici< /u></b></a> Si vous préférez l'installation manuelle, assurez-vous d'avoir un navigateur Web compatible comme Google Chrome ou Microsoft Edge et un appareil qui le prend en charge, comme les Mac, les Chromebooks ou les systèmes Windows."
+        },
+        {
+          "id": "2",
+          "question": "Épinglez l’extension Fancode Party",
+          "answer": "L'étape d'installation n'est que le début ; épingler l'extension à la barre d'outils de votre navigateur est tout aussi important. Cliquez sur l'icône de l'extension Fancode Party, en la fixant dans le coin supérieur droit de votre écran. Si localiser l'icône s'avère difficile, cliquez sur l'icône du puzzle pour la révéler"
+        },
+        {
+          "id": "3",
+          "question": "Connectez-vous à votre compte Fancode",
+          "answer": "Procédez en vous connectant à votre plateforme de streaming Fancode en utilisant votre compte personnel. Si vous avez besoin d'un compte, créez-en un. Gardez à l’esprit que l’hôte et les participants de la fête doivent se connecter. De plus, avoir un abonnement Fancode actif est essentiel pour toutes les parties impliquées."
+        },
+        {
+          "id": "4",
+          "question": "Rechercher, sélectionner et commencer",
+          "answer": "Une fois connecté, lancez-vous dans votre voyage de streaming Fancode en recherchant et en sélectionnant le film ou l'émission que vous souhaitez regarder avec vos compagnons. L'hôte doit lire le contenu momentanément avant de le mettre en pause."
+        },
+        {
+          "id": "5",
+          "question": "Créez une URL de fête Fancode",
+          "answer": "Générer une atmosphère Fancode Watch Party et inviter vos amis et votre famille est simple avec une URL désignée. Ouvrez votre navigateur Web, activez l'extension Fancode Party et lancez les festivités. Une fenêtre contextuelle apparaîtra, offrant l'option « CRÉER UNE FÊTE ». En dessous, vous verrez le bouton « START PARTY » dans la même fenêtre. Veuillez cliquer dessus pour générer l'URL de votre invitation à une fête. Partagez cette URL avec vos invités, leur permettant ainsi de rejoindre la fête en toute transparence."
+        },
+        {
+          "id": "6",
+          "question": "PARTAGEZ LE LIEN D'INVITATION",
+          "answer": "Maintenant, tout ce que vous avez à faire est de partager le lien de la soirée Crunchyroll généré avec vos amis que vous souhaitez participer à votre soirée de surveillance."
+        },
+        {
+          "id": "7",
+          "question": "Rejoignez la soirée Fancode",
+          "answer": "Lorsque les invités reçoivent l'URL d'invitation à la Fancode Watch Party, ils peuvent rejoindre la célébration en cliquant dessus. Juste comme ça, ils font partie de votre Fancode Party. De plus, pour amplifier l'expérience : <br/> 1. Pensez à vous offrir du pop-corn et des boissons. <br/>2. Savourez le film, l'émission, la série ou tout autre contenu que vous diffusez en streaming avec vos compagnons.<br/>3. Saisissez l’opportunité d’insuffler l’essence de ses fonctionnalités uniques dans votre entreprise de streaming partagée. <br/>C'est parti pour une Fancode Watch Party inoubliable !"
+        }
+      ]
+    },
+    "three": {
+      "heading": "Fonctionnalités passionnantes et améliorées de FanCode Party",
+      "subHeading": "Ne considérez pas votre fête comme complète sans tirer le meilleur parti de ses fonctionnalités attrayantes et étonnantes. Si vous êtes curieux de connaître ces attributs exceptionnels, prenez un moment pour explorer la section suivante qui couvre les bases :",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646045102848-how-to-use-crunchyroll-party.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Disponibilité mondiale",
+          "answer": "La fonctionnalité « Disponibilité mondiale » garantit que votre FanCode Watch Party deviendra une sensation mondiale. Cela signifie que vous pouvez facilement partager et diffuser du contenu à l'aide de l'extension FanCode Party à travers le monde. De plus, cette extension est accessible dans le monde entier, vous permettant de vous amuser depuis n'importe où. Si FanCode n'est pas accessible dans votre région, un service VPN peut vous aider. De cette façon, vous pouvez activer votre abonnement FanCode et télécharger l'extension"
+        },
+        {
+          "id": "t2",
+          "question": "Contrôle complet",
+          "answer": "Garder le contrôle de votre événement est crucial, même s'il s'agit d'une FanCode Party. L'hôte peut activer la fonction « Seul j'ai le contrôle » pour exercer son autorité sur votre groupe. Cela permet à l'hôte de gérer les paramètres tels que la lecture, la pause, le rembobinage, l'avance ou la reprise pendant la lecture vidéo."
+        },
+        {
+          "id": "t3",
+          "question": "Synchronisation en temps réel",
+          "answer": "L'accessibilité de FanCode Party s'étend à la synchronisation du contenu en streaming pour les utilisateurs du monde entier. Cela ne s'arrête pas à la synchronisation ; il offre également du contenu en qualité d’image haute définition. Cela signifie que vous pouvez vous adonner à regarder et partager des vidéos d'une qualité exceptionnelle tout en profitant d'une synchronisation en temps réel lors de votre FanCode Watch Party."
+        },
+        {
+          "id": "t4",
+          "question": "Interaction de groupe en direct",
+          "answer": "FanCode Party va au-delà du simple streaming en proposant la fonctionnalité « Live Group Interaction ». De plus, il vous permet d'engager des conversations animées avec vos amis et votre famille tout en profitant du contenu. La boîte de discussion est idéalement située dans le panneau latéral de l'écran, vous permettant de partager des commentaires, des avis, des jalons et même de répondre aux messages."
+        },
+        {
+          "id": "t5",
+          "question": "Profils personnalisés",
+          "answer": "Si vous souhaitez rendre votre FanCode Watch Party spéciale, la fonctionnalité « Profils personnalisés » est votre solution. De plus, pour rehausser le caractère unique de votre groupe en sélectionnant des avatars attrayants comme icônes de profil. De plus, démarquez-vous avec un surnom créatif et attrayant qui reflète votre style."
+        },
+        {
+          "id": "t6",
+          "question": "Du plaisir à moindre coût",
+          "answer": "Les soucis financiers aideront votre expérience, car l'installation et l'accès à l'extension FanCode Party sont entièrement gratuits. La meilleure partie? Toutes les fonctionnalités fantastiques de FanCode Party sont disponibles gratuitement pour chaque utilisateur. Alors, profitez de moments de qualité en divertissant vos proches dans le monde entier sans dépenser un centime."
+        }
+      ]
+    },
+    "forth": {
+      "heading": "Dépannage de l'extension : -",
+      "subHeading": "L'extension Fancode Party est connue pour ses performances fluides, mais des problèmes occasionnels peuvent survenir lors de tout rassemblement en ligne. Pour vous aider à vivre une expérience sans problème, tenez compte de ces conseils de dépannage. Avec ces conseils de dépannage à l’esprit, vous pouvez vous attendre à une expérience FanCode Party fluide et agréable. Commençons:",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Connectez-vous à votre compte Fancode",
+          "answer": "Avant de lancer la fête, assurez-vous d'être connecté à votre compte Fancode. Cette étape est essentielle pour une participation fluide."
+        },
+        {
+          "id": "t2",
+          "question": "Installer l'extension FANCODE PARTY",
+          "answer": "Vérifiez à nouveau que vous avez correctement installé l’extension Fancode Party sur votre appareil. Cette extension est cruciale pour organiser et rejoindre des fêtes."
+        },
+        {
+          "id": "t3",
+          "question": "Vérifiez l'URL de l'invitation à la fête",
+          "answer": "Examinez attentivement l'URL de l'invitation à la fête pour confirmer son exactitude. Une URL incorrecte ou incomplète peut entraîner des problèmes de connexion."
+        },
+        {
+          "id": "t4",
+          "question": "Vérifier les paramètres de l'hôte",
+          "answer": "Prenez un moment pour revoir les paramètres de l'hôte. Certaines actions peuvent être restreintes en fonction des préférences de l'hôte. Comprendre ces paramètres améliorera votre plaisir de la Fancode Party."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Questions fréquemment posées",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Qu’est-ce que Fancode Party et comment ça marche ?",
+        "answer": "Fancode Watch Party est une plateforme de streaming en ligne qui vous permet d'héberger votre soirée de streaming personnalisée, en synchronisant l'expérience pour jusqu'à 100 participants dans le monde. De plus, il vous permet de profiter de films, d'émissions et d'événements sportifs en temps réel avec vos amis et votre famille. L'utilisation de l'extension Fancode Party vous permet de créer un rassemblement virtuel quel que soit votre emplacement"
+      },
+      {
+        "id": "f2",
+        "question": "Comment puis-je installer l’extension Fancode Party ?",
+        "answer": "Vous disposez de deux options d’installation pour l’extension Fancode Party. Tout d'abord, vous pouvez le télécharger directement à partir du lien fourni. Vous pouvez également installer manuellement un navigateur Web compatible comme Google Chrome ou Microsoft Edge. Assurez-vous également que votre appareil prend en charge l'extension, comme un système Mac, Chromebook ou Windows."
+      },
+      {
+        "id": "f3",
+        "question": "Un abonnement Fancode est-il obligatoire pour l’utilisation de Fancode Party ?",
+        "answer": "Absolument, un abonnement Fancode actif est une condition préalable à la fois pour l'hôte et les participants s'engageant dans la Fancode Watch Party. Un abonnement garantit l'accès au contenu et aux fonctionnalités de la plateforme, garantissant une expérience de streaming agréable pour toutes les parties impliquées."
+      },
+      {
+        "id": "f4",
+        "question": "Quelles fonctionnalités Fancode Party propose-t-il pour améliorer l'expérience ?",
+        "answer": "Fancode Watch Party présente une gamme de fonctionnalités captivantes pour améliorer votre projet de streaming, notamment :",
+        "p1": "Disponibilité mondiale : Premièrement, l'extension permet le partage et la diffusion de contenu dans le monde entier, accessibles n'importe où.",
+        "p2": "Contrôle complet : l'hôte dispose d'un contrôle exclusif sur les paramètres tels que la lecture, la pause, le rembobinage et l'avance pendant la lecture vidéo.",
+        "p3": "Synchronisation en temps réel",
+        "p4": "Interaction de groupe en direct : participez à des discussions en direct avec vos amis et votre famille grâce à la fonction de discussion de groupe.",
+        "p5": "Profils personnalisés : personnalisez votre profil avec des avatars attrayants et des surnoms imaginatifs.",
+        "p6": "Rentable : l'installation et l'utilisation de l'extension Fancode Party et de ses fonctionnalités sont entièrement gratuites."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Faites le nous savoir.",
+    "anyQuestions": "Avoir des questions? Visitez notre page d'assistance",
+    "blog": "Blog",
+    "privacy": "Confidentialité",
+    "popularSearches": "Recherches populaires",
+    "disclaimer": "Clause de non-responsabilité",
+    "disclaimerContent": "Fancode Party Extension offre une expérience de streaming transparente, mais des problèmes occasionnels peuvent survenir. Assurez-vous de suivre les conseils de dépannage pour un événement sans problème. Profitez de votre soirée Fancode.",
+    "footerTags": [
+      "Extension de fête Fancode",
+      "Extension Chrome Fancode Party",
+      "comment utiliser Fancode Party",
+      "installer Fancode Party",
+      "Fête des fancodes",
+      "Soirée de visionnage de fancodes",
+      "Extension de fête Fancode",
+      "Extension Chrome Fancode Party",
+      "Regarder la soirée Fancode",
+      "Guide de la fête Fancode",
+      "comment utiliser Fancode Party",
+      "Comment organiser une fête Fancode",
+      "Comment organiser une fête Fancode",
+      "Comment regarder Fancode ensemble"
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "headingOne": "A Fancode adatvédelmi szabályzata",
+  "sectionOne": [
+    {
+      "id": "1",
+      "answer": "A https://www.fancodeparty.com/ oldalról elérhető Fancode-nál az egyik fő prioritásunk a látogatók magánélete. Ez az adatvédelmi nyilatkozat a Fancode által gyűjtött és rögzített információk típusát tartalmazza, valamint azt, hogy hogyan használjuk fel azokat."
+    },
+    {
+      "id": "2",
+      "answer": "Ha további kérdései vannak, vagy további információra van szüksége adatvédelmi szabályzatunkkal kapcsolatban, ne habozzon kapcsolatba lépni velünk."
+    },
+    {
+      "id": "3",
+      "answer": "Ez az adatvédelmi szabályzat csak az online tevékenységeinkre vonatkozik, és a weboldalunk látogatóira érvényes, tekintettel a Fancode-ban megosztott és/vagy gyűjtött információkra. Ez a szabályzat nem vonatkozik az offline vagy a webhelyen kívüli csatornákon keresztül gyűjtött információkra."
+    }
+  ],
+  "headingTwo": "Beleegyezés",
+  "sectionTwo": [
+    {
+      "id": "1",
+      "answer": "Weboldalunk használatával Ön ezennel elfogadja Adatvédelmi szabályzatunkat, és elfogadja annak feltételeit."
+    },
+    { "id": "2", "answer": "Az általunk gyűjtött információk" },
+    {
+      "id": "3",
+      "answer": "Azon személyes adatok, amelyek megadására kérünk, és azok okai, amelyek megadására kérik, egyértelművé válnak, amikor a személyes adatok megadását kérjük."
+    },
+    {
+      "id": "4",
+      "answer": "Ha közvetlenül felveszi velünk a kapcsolatot, további információkat kaphatunk Önről, például nevét, e-mail címét, telefonszámát, az Ön által nekünk küldött üzenet és/vagy mellékletek tartalmát, és minden egyéb információt, amelyet megadhat."
+    },
+    {
+      "id": "5",
+      "answer": "Amikor regisztrál egy fiókot, kérhetjük kapcsolatfelvételi adatait, beleértve az olyan elemeket, mint a név, cégnév, cím, e-mail cím és telefonszám."
+    }
+  ],
+  "headingThree": "Hogyan használjuk fel az Ön adatait",
+  "sectionThree": [
+    {
+      "id": "1",
+      "answer": "Az általunk gyűjtött információkat különféle módokon használjuk fel, többek között:"
+    },
+    {
+      "id": "2",
+      "answer": "Weboldalunk biztosítása, üzemeltetése és karbantartása"
+    },
+    {
+      "id": "3",
+      "answer": "Weboldalunk fejlesztése, személyre szabása és bővítése"
+    },
+    {
+      "id": "4",
+      "answer": "Értse meg és elemezze, hogyan használja weboldalunkat"
+    },
+    {
+      "id": "5",
+      "answer": "Új termékek, szolgáltatások, funkciók és funkciók fejlesztése"
+    },
+    {
+      "id": "6",
+      "answer": "Közvetlenül vagy valamelyik partnerünkön keresztül kapcsolatba léphet Önnel, beleértve az ügyfélszolgálatot is, hogy a weboldallal kapcsolatos frissítésekkel és egyéb információkkal, valamint marketing és promóciós célokra szolgálhasson."
+    },
+    { "id": "7", "answer": "Küldj e-maileket" },
+    { "id": "8", "answer": "Keresse meg és előzze meg a csalást" }
+  ],
+  "headingFour": "Naplófájlok",
+  "sectionFour": [
+    {
+      "id": "1",
+      "answer": "A Fancode a naplófájlok használatának szokásos eljárását követi. Ezek a fájlok naplózzák a látogatókat, amikor webhelyeket látogatnak meg. Minden hosting cég ezt teszi, és a hosting szolgáltatások elemzésének egy részét. A naplófájlok által gyűjtött információk magukban foglalják az IP-címeket, a böngésző típusát, az Internet-szolgáltatót (ISP), a dátum- és időbélyegzőt, a hivatkozó/kilépési oldalakat és esetleg a kattintások számát. Ezek nem kapcsolódnak semmilyen személyes azonosításra alkalmas információhoz. Az információk célja a trendek elemzése, az oldal adminisztrálása, a felhasználók mozgásának nyomon követése a webhelyen, valamint demográfiai információk gyűjtése."
+    }
+  ],
+  "headingFive": "Reklámpartnerek adatvédelmi irányelvei",
+  "sectionFive": [
+    {
+      "id": "1",
+      "answer": "Ebben a listában megtalálhatja a Fancode hirdetési partnereinek adatvédelmi szabályzatát."
+    },
+    {
+      "id": "2",
+      "answer": "A harmadik féltől származó hirdetésszerverek vagy hirdetési hálózatok olyan technológiákat használnak, mint a cookie-k, a JavaScript vagy a Web Beacon, amelyeket a megfelelő hirdetéseikben és a Fancode-on megjelenő hivatkozásokban használnak, amelyeket közvetlenül a felhasználó böngészőjébe küldenek. Amikor ez megtörténik, automatikusan megkapják az Ön IP-címét. Ezeket a technológiákat hirdetési kampányaik hatékonyságának mérésére és/vagy a felkeresett webhelyeken látható hirdetési tartalom személyre szabására használják."
+    },
+    {
+      "id": "3",
+      "answer": "Ne feledje, hogy a Fancode-nak nincs hozzáférése ezekhez a cookie-khoz, amelyeket harmadik fél hirdetők használnak, és nem tudja ellenőrizni azokat."
+    },
+    { "id": "3", "answer": "Harmadik felek adatvédelmi irányelvei" },
+    {
+      "id": "4",
+      "answer": "A Fancode adatvédelmi szabályzata nem vonatkozik más hirdetőkre vagy webhelyekre. Ezért azt tanácsoljuk, hogy részletesebb információkért tekintse át e harmadik fél hirdetésszervereinek megfelelő adatvédelmi szabályzatát. Tartalmazhatja gyakorlataikat és útmutatást arról, hogyan lehet leiratkozni bizonyos lehetőségekről."
+    },
+    {
+      "id": "5",
+      "answer": "Dönthet úgy, hogy letiltja a cookie-kat az egyéni böngészőbeállításokon keresztül. Ha részletesebb információkat szeretne megtudni a cookie-kezelésről bizonyos webböngészőkkel, akkor az a böngészők megfelelő webhelyein található."
+    }
+  ],
+  "headingSix": "CCPA adatvédelmi jogok (ne add el a személyes adataimat)",
+  "sectionSix": [
+    {
+      "id": "1",
+      "answer": "A CCPA értelmében, többek között, a kaliforniai fogyasztóknak joguk van:"
+    },
+    {
+      "id": "2",
+      "answer": "Kérje, hogy a fogyasztó személyes adatait gyűjtő vállalkozás hozza nyilvánosságra azokat a kategóriákat és konkrét személyes adatokat, amelyeket egy vállalkozás gyűjtött a fogyasztókról."
+    },
+    {
+      "id": "3",
+      "answer": "Kérje meg a vállalkozást, hogy töröljön minden olyan személyes adatot a fogyasztóról, amelyet a vállalkozás gyűjtött."
+    },
+    {
+      "id": "4",
+      "answer": "Kérje, hogy a fogyasztó személyes adatait értékesítő vállalkozás ne adja el a fogyasztó személyes adatait."
+    },
+    {
+      "id": "5",
+      "answer": "Ha kérelmet nyújt be, egy hónap áll rendelkezésünkre, hogy válaszoljunk. Ha élni szeretne ezen jogok bármelyikével, kérjük, vegye fel velünk a kapcsolatot."
+    }
+  ],
+  "headingSeven": "GDPR adatvédelmi jogok",
+  "sectionSeven": [
+    {
+      "id": "1",
+      "answer": "Szeretnénk megbizonyosodni arról, hogy teljes mértékben tisztában van az összes adatvédelmi jogával. Minden felhasználó jogosult a következőkre:"
+    },
+    {
+      "id": "2",
+      "answer": "Hozzáférési jog – Önnek jogában áll másolatot kérni személyes adatairól. Kisebb díjat számíthatunk fel ezért a szolgáltatásért."
+    },
+    {
+      "id": "3",
+      "answer": "A helyesbítéshez való jog – Önnek jogában áll kérni, hogy javítsunk ki minden, Ön szerint pontatlan információt. Önnek joga van arra is, hogy kérje az Ön által hiányosnak vélt információk kiegészítését."
+    },
+    {
+      "id": "4",
+      "answer": "A törléshez való jog – Önnek jogában áll kérni, hogy bizonyos feltételek mellett töröljük személyes adatait."
+    },
+    {
+      "id": "5",
+      "answer": "Az adatkezelés korlátozásához való jog – Önnek jogában áll kérni, hogy bizonyos feltételek mellett korlátozzuk személyes adatai kezelését."
+    },
+    {
+      "id": "6",
+      "answer": "Az adatkezelés elleni tiltakozás joga – Önnek jogában áll tiltakozni személyes adatainak általunk végzett kezelése ellen, bizonyos feltételek mellett."
+    },
+    {
+      "id": "7",
+      "answer": "Az adathordozhatósághoz való jog – Önnek jogában áll kérni, hogy az általunk gyűjtött adatokat bizonyos feltételek mellett egy másik szervezetnek vagy közvetlenül Önnek továbbítsuk."
+    },
+    {
+      "id": "8",
+      "answer": "Ha kérelmet nyújt be, egy hónap áll rendelkezésünkre, hogy válaszoljunk. Ha élni szeretne ezen jogok bármelyikével, kérjük, vegye fel velünk a kapcsolatot."
+    }
+  ],
+  "headingEight": "Gyermek információk",
+  "sectionEight": [
+    {
+      "id": "1",
+      "answer": "Prioritásunk másik része a gyermekek internethasználata közbeni védelme. Arra bátorítjuk a szülőket és a gyámokat, hogy figyeljék online tevékenységeiket, vegyenek részt azokban és/vagy kövessék figyelemmel és irányítsák."
+    },
+    {
+      "id": "2",
+      "answer": "A Fancode tudatosan nem gyűjt semmilyen személyes azonosításra alkalmas információt 13 éven aluli gyermekektől. Ha úgy gondolja, hogy gyermeke ilyen jellegű információkat adott meg webhelyünkön, nyomatékosan javasoljuk, hogy haladéktalanul lépjen kapcsolatba velünk, és mindent megteszünk, hogy azonnal eltávolítsuk az adatokat. ilyen információkat a nyilvántartásunkból."
+    }
+  ]
+}

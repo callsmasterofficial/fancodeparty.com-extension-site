@@ -1,0 +1,174 @@
+{
+  "header": {
+    "installBtn": { "addTo": "添加", "free": "这是免费的" },
+    "navBarHeading": "现已在 Google Chrome、Microsoft Edge 和 Mozilla Firefox 上提供"
+  },
+  "section": {
+    "first": {
+      "heading": "举办 Fancode 派对：实时直播全球体育赛事",
+      "html": "Fancode 是一个流行的体育数字平台，以其广泛报道各种体育赛事（主要以板球为中心）而闻名。此外，它还为用户提供直播、比分、统计数据和新闻。 Fancode 拥有用户友好的界面和满足粉丝需求的坚定承诺，已积累了超过 5000 万的独立用户，并实现了 2500 万次应用下载。除了板球之外，它的报道范围还包括足球、篮球和卡巴迪。 <br/><br/> 想象一下，作为一名真正的体育爱好者，他享受赛事并可以与朋友实时分享体验。 Fancode Party Extension 是一款解决方案，可让您举办在线流媒体派对，并在全球最多 100 名参与者之间同步体验。此外，为了提升您的流媒体体验，该扩展程序还提供了用户友好的功能。 <a href=\"/\"><b><u>Fancode Party</u></b></a> 已直播超过 300 场活动，其中包括独家国际板球比赛。 <br/> <br/> 此外，它还与著名的体育联盟和球队建立了合作伙伴关系，成为 IPL 特许经营权、BCCI、NBA、WWE 和利物浦等著名足球俱乐部等主要品牌的官方商品合作伙伴。随着 Fancode 不断扩展和策划定制内容，它已成为一个综合性体育中心，为各种运动爱好者提供服务。",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646045102848-how-to-use-crunchyroll-party.mp4"
+    },
+    "second": {
+      "heading": "如何举办粉丝码派对并进行在线直播？",
+      "subHeading": "如果您正在考虑举办 Fancode 观看派对，欢迎来到这里。在这里，您将了解制作个性化流媒体活动所需的所有重要细节。毫不犹豫地与您所爱的人聚集在一起，欣赏完美和谐、实时同步和高清分辨率的迷人电影和节目。最令人兴奋的部分？无论位置如何，距离都​​可以让您使这种虚拟聚会成为现实。让我们深入了解一下这个过程：",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646045102848-how-to-use-crunchyroll-party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "安装 Fancode Party 扩展",
+          "answer": "通过此提供的直接下载并安装 Fancode Party 扩展程序来开始您的旅程<a href=\"https://chrome.google.com/webstore/detail/fancode-party/ggedddmcehccjajcnndmikemjghnlkgn\"><b><u>点击此处< /u></b></a> 如果您更喜欢手动安装，请确保您拥有兼容的网络浏览器（例如 Google Chrome 或 Microsoft Edge）以及支持该浏览器的设备（例如 Mac、Chromebook 或 Windows 系统）。"
+        },
+        {
+          "id": "2",
+          "question": "固定 Fancode Party 扩展",
+          "answer": "安装步骤仅仅是开始；将扩展程序固定到浏览器的工具栏同样重要。单击 Fancode Party 扩展图标，将其固定在屏幕的右上角。如果找到该图标具有挑战性，请单击拼图图标以显示它"
+        },
+        {
+          "id": "3",
+          "question": "登录您的粉丝代码帐户",
+          "answer": "使用您的个人帐户登录您的 Fancode 流媒体平台。如果您需要一个帐户，请创建一个。请记住，聚会的主持人和参与者都需要登录。此外，拥有有效的 Fancode 订阅对于所有参与方都至关重要。"
+        },
+        {
+          "id": "4",
+          "question": "搜索、选择并开始",
+          "answer": "登录后，搜索并选择您想与同伴一起欣赏的电影或节目，开始您的 Fancode 流媒体之旅。主持人应先播放内容，然后再暂停。"
+        },
+        {
+          "id": "5",
+          "question": "制作 Fancode 派对 URL",
+          "answer": "使用指定的 URL 即可轻松营造 Fancode Watch Party 氛围并邀请您的朋友和家人。打开网络浏览器，激活 Fancode Party 扩展程序，然后开始庆祝活动。将出现一个弹出窗口，提供“创建派对”选项。在此下方，您将在同一窗口中看到“开始派对”按钮。请单击它以生成聚会邀请的 URL。与您的客人分享此 URL，让他们无缝加入聚会。"
+        },
+        {
+          "id": "6",
+          "question": "分享邀请链接",
+          "answer": "现在，您所要做的就是与您希望参加观看派对的朋友分享生成的 Crunchyroll 派对链接。"
+        },
+        {
+          "id": "7",
+          "question": "加入粉丝码派对",
+          "answer": "来宾收到 Fancode Watch Party 邀请 URL 后，点击即可加入庆祝活动。就这样，他们成为了你的 Fancode Party 的一部分。此外，为了增强体验：<br/> 1. 考虑沉迷于爆米花和饮料。 <br/>2.欣赏电影、节目、连续剧或与同伴一起流式传输的任何内容。<br/>3.借此机会将其独特功能的精髓注入您的共享流媒体事业中。 <br/>这是一场难忘的 Fancode 观看派对！"
+        }
+      ]
+    },
+    "three": {
+      "heading": "FanCode Party 令人兴奋且增强的功能",
+      "subHeading": "如果没有充分利用其引人入胜且令人惊叹的功能，请不要认为您的聚会是完整的。如果您对这些特殊属性感到好奇，请花点时间浏览以下涵盖基础知识的部分：",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646045102848-how-to-use-crunchyroll-party.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "全球供应",
+          "answer": "“全球可用”功能可确保您的 FanCode Watch Party 轰动全球。这意味着您可以使用 FanCode Party 扩展在全球范围内轻松共享和流式传输内容。此外，此扩展可在全球范围内访问，让您可以从任何地方加入乐趣。如果您所在地区无法访问 FanCode，VPN 服务可以提供帮助。这样，您就可以激活您的 FanCode 订阅并下载扩展程序"
+        },
+        {
+          "id": "t2",
+          "question": "完全控制",
+          "answer": "即使是 FanCode 派对，保持对活动的控制也至关重要。主持人可以激活“只有我可以控制”功能来对你的队伍行使权力。这使主机能够在视频播放期间管理播放、暂停、快退、快进或恢复等设置。"
+        },
+        {
+          "id": "t3",
+          "question": "实时同步",
+          "answer": "FanCode Party 的可访问性扩展到为全球用户同步流媒体内容。它不会在同步时停止；而是在同步时停止。它还提供高清图像质量的内容。这意味着您可以在 FanCode Watch Party 期间尽情观看和分享卓越品质的视频，同时享受实时同步。"
+        },
+        {
+          "id": "t4",
+          "question": "现场小组互动",
+          "answer": "FanCode Party 超越了单纯的流媒体，提供了“实时群组互动”功能。此外，它还可以让您在享受内容的同时与朋友和家人进行生动的对话。聊天框位于屏幕的侧面板，方便您分享评论、评论、里程碑，甚至回复消息。"
+        },
+        {
+          "id": "t5",
+          "question": "个性化个人资料",
+          "answer": "如果您想让您的 FanCode Watch Party 与众不同，“个性化个人资料”功能就是您的最佳选择。此外，通过选择有吸引力的头像作为您的个人资料图标来提升您的团队的独特性。此外，用一个反映您风格的富有创意且有吸引力的昵称来脱颖而出。"
+        },
+        {
+          "id": "t6",
+          "question": "高性价比的乐趣",
+          "answer": "财务上的担忧将有助于您的体验，因为安装和访问 FanCode Party 扩展程序是完全免费的。最好的部分？ FanCode Party 的所有精彩功能都可供每个用户免费使用。因此，无需花费一分钱，即可享受与世界各地的亲人共度美好时光。"
+        }
+      ]
+    },
+    "forth": {
+      "heading": "扩展程序故障排除：-",
+      "subHeading": "Fancode Party 扩展以其流畅的性能而闻名，但任何在线聚会都可能偶尔出现问题。为了帮助您获得无故障的体验，请考虑这些故障排除提示。牢记这些故障排除提示，您就可以享受顺畅、愉快的 FanCode Party 体验。让我们开始吧：",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "登录您的 Fancode 帐户",
+          "answer": "在发起聚会之前，请确保您已登录您的 Fancode 帐户。此步骤对于无缝参与至关重要。"
+        },
+        {
+          "id": "t2",
+          "question": "安装 FANCODE PARTY 扩展",
+          "answer": "仔细检查您是否已在设备上正确安装 Fancode Party 扩展程序。此扩展对于举办和加入聚会至关重要。"
+        },
+        {
+          "id": "t3",
+          "question": "验证聚会邀请 URL",
+          "answer": "仔细检查聚会邀请 URL 以确认其准确性。不正确或不完整的 URL 可能会导致连接问题。"
+        },
+        {
+          "id": "t4",
+          "question": "查看主机设置",
+          "answer": "花点时间检查一下主机的设置。某些操作可能会根据主持人的偏好受到限制。了解这些设置将增强您享受 Fancode Party 的乐趣。"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "经常问的问题",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Fancode Party 是什么？它如何运作？",
+        "answer": "Fancode Watch Party 是一个在线流媒体平台，让您能够举办个性化的流媒体派对，为全球最多 100 名参与者同步体验。此外，它还可以让您与朋友和家人一起欣赏实时电影、节目和体育赛事。利用 Fancode Party 扩展，您可以创建虚拟聚会，无论您身在何处"
+      },
+      {
+        "id": "f2",
+        "question": "如何安装 Fancode Party 扩展程序？",
+        "answer": "Fancode Party 扩展有两个安装选项。首先，您可以直接从提供的链接下载它。或者，手动安装兼容的网络浏览器，例如 Google Chrome 或 Microsoft Edge。另外，请确保您的设备支持该扩展程序，例如 Mac、Chromebook 或 Windows 系统。"
+      },
+      {
+        "id": "f3",
+        "question": "使用 Fancode Party 是否必须订阅 Fancode？",
+        "answer": "当然，活跃的 Fancode 订阅是参与 Fancode Watch Party 的主持人和参与者的先决条件。订阅可保证访问平台的内容和功能，确保所有相关方都能获得愉快的流媒体体验。"
+      },
+      {
+        "id": "f4",
+        "question": "Fancode Party 提供哪些功能来提升体验？",
+        "answer": "Fancode Watch Party 引入了一系列迷人的功能来增强您的流媒体事业，包括：",
+        "p1": "全球可用性：首先，该扩展允许在全球范围内共享内容和流式传输，可以在任何地方访问。",
+        "p2": "完全控制：主机对视频播放过程中的播放、暂停、快退、快进等设置拥有独占控制权。",
+        "p3": "实时同步",
+        "p4": "实时群组互动：通过群组聊天功能与朋友和家人进行实时讨论。",
+        "p5": "个性化个人资料：使用有吸引力的头像和富有想象力的昵称自定义您的个人资料。",
+        "p6": "经济高效：Fancode Party 扩展及其功能的安装和使用都是完全免费的。"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "让我们知道。",
+    "anyQuestions": "有疑问吗？访问我们的支持页面",
+    "blog": "博客",
+    "privacy": "隐私",
+    "popularSearches": "热门搜索",
+    "disclaimer": "免责声明",
+    "disclaimerContent": "Fancode Party Extension 提供无缝的流媒体体验，但偶尔也会出现问题。确保遵循故障排除提示，以确保事件顺利进行。享受你的粉丝码派对吧。",
+    "footerTags": [
+      "粉丝码派对扩展",
+      "Fancode Party Chrome 扩展程序",
+      "Fancode派对的使用方法",
+      "安装粉丝码派对",
+      "粉丝码派对",
+      "粉丝码观看派对",
+      "粉丝码派对扩展",
+      "Fancode Party Chrome 扩展程序",
+      "观看粉丝码派对",
+      "Fancode派对指南",
+      "Fancode派对的使用方法",
+      "如何举办粉丝码派对",
+      "如何举办粉丝码派对",
+      "如何一起观看粉丝码"
+    ]
+  }
+}

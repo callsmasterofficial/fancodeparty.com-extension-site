@@ -1,0 +1,160 @@
+{
+  "headingOne": "Sera ya Faragha ya Fancode",
+  "sectionOne": [
+    {
+      "id": "1",
+      "answer": "Katika Fancode, inapatikana kutoka https://www.fancodeparty.com/, mojawapo ya vipaumbele vyetu kuu ni faragha ya wageni wetu. Hati hii ya Sera ya Faragha ina aina ya maelezo ambayo hukusanywa na kurekodiwa na Fancode na jinsi tunavyoitumia."
+    },
+    {
+      "id": "2",
+      "answer": "Ikiwa una maswali ya ziada au unahitaji maelezo zaidi kuhusu Sera yetu ya Faragha, usisite kuwasiliana nasi."
+    },
+    {
+      "id": "3",
+      "answer": "Sera hii ya Faragha inatumika tu kwa shughuli zetu za mtandaoni na ni halali kwa wanaotembelea tovuti yetu kuhusu maelezo ambayo walishiriki na/au kukusanya katika Fancode. Sera hii haitumiki kwa maelezo yoyote yanayokusanywa nje ya mtandao au kupitia vituo vingine isipokuwa tovuti hii."
+    }
+  ],
+  "headingTwo": "Idhini",
+  "sectionTwo": [
+    {
+      "id": "1",
+      "answer": "Kwa kutumia tovuti yetu, unakubali Sera yetu ya Faragha na kukubaliana na masharti yake."
+    },
+    { "id": "2", "answer": "Habari tunazokusanya" },
+    {
+      "id": "3",
+      "answer": "Taarifa za kibinafsi ambazo umeombwa kutoa, na sababu zinazokufanya uombwe kuzitoa, zitawekwa wazi kwako katika hatua ambayo tunakuomba utoe maelezo yako ya kibinafsi."
+    },
+    {
+      "id": "4",
+      "answer": "Ukiwasiliana nasi moja kwa moja, tunaweza kupokea maelezo ya ziada kukuhusu kama vile jina lako, anwani ya barua pepe, nambari ya simu, maudhui ya ujumbe na/au viambatisho unavyoweza kututumia, na taarifa nyingine yoyote unayoweza kuchagua kutoa."
+    },
+    {
+      "id": "5",
+      "answer": "Unapojiandikisha kwa Akaunti, tunaweza kukuuliza habari yako ya mawasiliano, ikijumuisha vitu kama vile jina, jina la kampuni, anwani, barua pepe na nambari ya simu."
+    }
+  ],
+  "headingThree": "Jinsi tunavyotumia maelezo yako",
+  "sectionThree": [
+    {
+      "id": "1",
+      "answer": "Tunatumia maelezo tunayokusanya kwa njia mbalimbali, ikiwa ni pamoja na:"
+    },
+    { "id": "2", "answer": "Kutoa, kuendesha, na kudumisha tovuti yetu" },
+    { "id": "3", "answer": "Kuboresha, kubinafsisha, na kupanua tovuti yetu" },
+    {
+      "id": "4",
+      "answer": "Kuelewa na kuchambua jinsi unavyotumia tovuti yetu"
+    },
+    {
+      "id": "5",
+      "answer": "Tengeneza bidhaa, huduma, vipengele vipya na utendakazi"
+    },
+    {
+      "id": "6",
+      "answer": "Kuwasiliana nawe, moja kwa moja au kupitia kwa mmoja wa washirika wetu, ikiwa ni pamoja na huduma kwa wateja, ili kukupa masasisho na taarifa nyingine zinazohusiana na tovuti, na kwa madhumuni ya masoko na matangazo."
+    },
+    { "id": "7", "answer": "Nikutumie barua pepe" },
+    { "id": "8", "answer": "Tafuta na uzuie udanganyifu" }
+  ],
+  "headingFour": "Faili za Ingia",
+  "sectionFour": [
+    {
+      "id": "1",
+      "answer": "Fancode hufuata utaratibu wa kawaida wa kutumia faili za kumbukumbu. Faili hizi huwaandikia wageni wanapotembelea tovuti. Kampuni zote za mwenyeji hufanya hivi na sehemu ya uchanganuzi wa huduma za mwenyeji. Taarifa zinazokusanywa na faili za kumbukumbu ni pamoja na anwani za itifaki ya mtandao (IP), aina ya kivinjari, Mtoa Huduma ya Mtandao (ISP), muhuri wa tarehe na saa, kurasa za kurejelea/kutoka, na ikiwezekana idadi ya mibofyo. Hizi hazijaunganishwa na maelezo yoyote ambayo yanaweza kutambulika kibinafsi. Madhumuni ya taarifa ni kuchanganua mienendo, kusimamia tovuti, kufuatilia mienendo ya watumiaji kwenye tovuti, na kukusanya taarifa za idadi ya watu."
+    }
+  ],
+  "headingFive": "Sera za Faragha za Washirika wa Utangazaji",
+  "sectionFive": [
+    {
+      "id": "1",
+      "answer": "Unaweza kushauriana na orodha hii ili kupata Sera ya Faragha kwa kila mshirika wa utangazaji wa Fancode."
+    },
+    {
+      "id": "2",
+      "answer": "Seva za matangazo za watu wengine au mitandao ya matangazo hutumia teknolojia kama vile vidakuzi, JavaScript, au Beacons za Wavuti ambazo hutumiwa katika matangazo na viungo vyao vinavyoonekana kwenye Fancode, ambavyo hutumwa moja kwa moja kwa kivinjari cha watumiaji. Wanapokea anwani yako ya IP kiotomatiki hii inapotokea. Teknolojia hizi hutumika kupima ufanisi wa kampeni zao za utangazaji na/au kubinafsisha maudhui ya utangazaji unayoona kwenye tovuti unazotembelea."
+    },
+    {
+      "id": "3",
+      "answer": "Kumbuka kuwa Fancode haina ufikiaji au udhibiti wa vidakuzi hivi ambavyo vinatumiwa na watangazaji wengine."
+    },
+    { "id": "3", "answer": "Sera za Faragha za Watu Wengine" },
+    {
+      "id": "4",
+      "answer": "Sera ya Faragha ya Fancode haitumiki kwa watangazaji au tovuti zingine. Kwa hivyo, tunakushauri kushauriana na Sera za Faragha husika za seva hizi za matangazo ya watu wengine kwa maelezo zaidi. Inaweza kujumuisha desturi na maagizo yao kuhusu jinsi ya kujiondoa kutoka kwa chaguo fulani."
+    },
+    {
+      "id": "5",
+      "answer": "Unaweza kuchagua kuzima vidakuzi kupitia chaguo zako za kivinjari. Ili kujua maelezo zaidi kuhusu usimamizi wa vidakuzi kwa kutumia vivinjari mahususi vya wavuti, inaweza kupatikana katika vivinjari vya tovuti husika."
+    }
+  ],
+  "headingSix": "Haki za Faragha za CCPA (Usiuze Taarifa Zangu za Kibinafsi)",
+  "sectionSix": [
+    {
+      "id": "1",
+      "answer": "Chini ya CCPA, miongoni mwa haki zingine, watumiaji wa California wana haki ya:"
+    },
+    {
+      "id": "2",
+      "answer": "Omba kwamba biashara inayokusanya data ya kibinafsi ya mtumiaji ifichue kategoria na vipande mahususi vya data ya kibinafsi ambayo biashara imekusanya kuhusu watumiaji."
+    },
+    {
+      "id": "3",
+      "answer": "Omba biashara kufuta data yoyote ya kibinafsi kuhusu mtumiaji ambayo biashara imekusanya."
+    },
+    {
+      "id": "4",
+      "answer": "Omba kwamba biashara inayouza data ya kibinafsi ya mtumiaji, isiuze data ya kibinafsi ya mtumiaji."
+    },
+    {
+      "id": "5",
+      "answer": "Ukituma ombi, tuna mwezi mmoja wa kukujibu. Ikiwa ungependa kutekeleza mojawapo ya haki hizi, tafadhali wasiliana nasi."
+    }
+  ],
+  "headingSeven": "Haki za Ulinzi wa Data za GDPR",
+  "sectionSeven": [
+    {
+      "id": "1",
+      "answer": "Tungependa kuhakikisha kuwa unafahamu kikamilifu haki zako zote za ulinzi wa data. Kila mtumiaji ana haki ya yafuatayo:"
+    },
+    {
+      "id": "2",
+      "answer": "Haki ya kufikia - Una haki ya kuomba nakala za data yako ya kibinafsi. Tunaweza kukutoza ada kidogo kwa huduma hii."
+    },
+    {
+      "id": "3",
+      "answer": "Haki ya kusahihisha - Una haki ya kuomba kwamba tusahihishe maelezo yoyote ambayo unaamini si sahihi. Pia una haki ya kuomba tumalize maelezo ambayo unaamini kuwa hayajakamilika."
+    },
+    {
+      "id": "4",
+      "answer": "Haki ya kufuta - Una haki ya kuomba tufute data yako ya kibinafsi, chini ya hali fulani."
+    },
+    {
+      "id": "5",
+      "answer": "Haki ya kuzuia uchakataji - Una haki ya kuomba tuzuie uchakataji wa data yako ya kibinafsi, chini ya hali fulani."
+    },
+    {
+      "id": "6",
+      "answer": "Haki ya kupinga kuchakatwa - Una haki ya kupinga uchakataji wetu wa data yako ya kibinafsi, chini ya hali fulani."
+    },
+    {
+      "id": "7",
+      "answer": "Haki ya kubebeka kwa data - Una haki ya kuomba tuhamishe data ambayo tumekusanya kwa shirika lingine, au kwako moja kwa moja, chini ya hali fulani."
+    },
+    {
+      "id": "8",
+      "answer": "Ukituma ombi, tuna mwezi mmoja wa kukujibu. Ikiwa ungependa kutekeleza mojawapo ya haki hizi, tafadhali wasiliana nasi."
+    }
+  ],
+  "headingEight": "Habari za Watoto",
+  "sectionEight": [
+    {
+      "id": "1",
+      "answer": "Sehemu nyingine ya kipaumbele chetu ni kuongeza ulinzi kwa watoto wakati wa kutumia mtandao. Tunawahimiza wazazi na walezi kuchunguza, kushiriki, na/au kufuatilia na kuongoza shughuli zao za mtandaoni."
+    },
+    {
+      "id": "2",
+      "answer": "Fancode haikusanyi Taarifa zozote za Kibinafsi Zinazoweza Kutambulika kutoka kwa watoto walio na umri wa chini ya miaka 13 kwa makusudi. Ikiwa unafikiri kwamba mtoto wako alitoa maelezo ya aina hii kwenye tovuti yetu, tunakuhimiza sana uwasiliane nasi mara moja na tutafanya jitihada zetu zote ili kuondoa mara moja. habari kama hizo kutoka kwa kumbukumbu zetu."
+    }
+  ]
+}

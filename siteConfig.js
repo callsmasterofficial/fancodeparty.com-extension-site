@@ -1,6 +1,6 @@
 const config = {
   siteName: 'Fancode Party',
-  url: 'https://fancodeparty.com',
+  url: 'https://fancodeparty.com/',
   blogUrl: '/blog',
   siteId: '64f568ffdc442be4903a09a0',
   extLink: {
