@@ -51,8 +51,7 @@ function InstallButton({ installBtn = {} }) {
         <button className="Add-to-chrome button-box primary flex  cursor-pointer rounded-[4px] p-2.5">
           <Chrome />
           <p className="h2 secondary_text_color  pl-2.5 font-bold text-white">
-            {installBtn.addTo}
-            {browser}{' '}
+            {installBtn.addTo} {browser}{' '}
             <span
               style={{
                 fontSize: '12px',
