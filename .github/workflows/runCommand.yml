@@ -19,4 +19,4 @@ jobs:
             cd /var/www/multiSite/fancodeparty.com
             sudo npm ci
             sudo npm run build
-            sudo pm2 restart 101
+            sudo pm2 restart 99
