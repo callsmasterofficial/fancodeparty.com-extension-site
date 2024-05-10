@@ -7,3 +7,9 @@ export const getAllmeta = (locale) => {
 export const getPrivacy = (locale) => {
   return require(`./pages/privacy/${locale}`)
 }
+export const getTerms = (locale) => {
+  return require(`./pages/terms/${locale}`)
+}
+export const getAffiliate = (locale) => {
+  return require(`./pages/affiliate/${locale}`)
+}

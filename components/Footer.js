@@ -20,6 +20,19 @@ function Footer({ installBtn, footer }) {
       { locale }
     )
   }
+
+  const pages = [
+    {
+      id: 1,
+      label: 'Privacy Policy',
+      href: "/privacy-policy"
+    },
+    {
+      id: 2,
+      label: 'Terms of Use',
+      href: "/terms-of-use"
+    }
+  ]
   return (
     <div className="footer-container mt-[20%] w-screen md:mt-[10%]">
       <div className="footer-box -mt-14 border-t-2 border-white"></div>
@@ -46,11 +59,11 @@ function Footer({ installBtn, footer }) {
           </Link>
         </button>
 
-        <button className="-mt-6 mb-5 ml-4 flex w-auto items-center justify-center rounded-[4px] border-2 border-[#1F183B] bg-white p-2 text-xl transition-all duration-200 hover:bg-[#1F183B] hover:text-white md:mt-0">
+        {/* <button className="-mt-6 mb-5 ml-4 flex w-auto items-center justify-center rounded-[4px] border-2 border-[#1F183B] bg-white p-2 text-xl transition-all duration-200 hover:bg-[#1F183B] hover:text-white md:mt-0">
           <Link href="/privacy">
             <span className="px-2 text-base font-bold "> {footer.privacy}</span>
           </Link>
-        </button>
+        </button> */}
         <div className="-mt-6 mb-5 flex w-auto items-center justify-center rounded-[4px] p-2 text-xl text-white transition-all duration-200  md:mt-0">
           <select
             onChange={localeChangeHandler}
@@ -74,7 +87,7 @@ function Footer({ installBtn, footer }) {
               alt="side_icon"
             />
             <h4 className="primary_text_color mr-1 text-sm font-bold md:text-lg">
-              {footer.popularSearches} :
+              {footer.popularSearches}
             </h4>
             <span className="primary_text_color mr-1">:</span>
             <p className="primary_text_color text-justify text-xs md:text-base">
@@ -103,6 +116,12 @@ function Footer({ installBtn, footer }) {
               {footer.disclaimerContent}
             </p>
           </span>
+        </div>
+        <hr />
+        <div className='flex justify-center items-center gap-6 mt-2 -mb-1'>
+          {pages.map((item, index) => (
+            <Link className=' font-semibold' href={item.href} key={index}>{item.label}</Link>
+          ))}
         </div>
       </div>
     </div>
