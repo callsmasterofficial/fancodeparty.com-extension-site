@@ -17,7 +17,7 @@ export async function getStaticProps({ locale }) {
                 title: allmeta.termofusemetatitle,
                 description: allmeta.termofusemetadescription,
                 keywords: allmeta.homeMetakeywords,
-                pageUrl: 'https://www.disneyplusgroupwatch.com/',
+                pageUrl: 'https://www.fancodeparty.com/',
                 featuredImage: '/logo.png',
             },
         },
