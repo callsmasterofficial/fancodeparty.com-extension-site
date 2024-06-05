@@ -14,8 +14,8 @@ export async function getStaticProps({ locale }) {
             terms,
             allmeta,
             meta: {
-                title: allmeta.privacymetatitle,
-                description: allmeta.blogMetadescription,
+                title: allmeta.termofusemetatitle,
+                description: allmeta.termofusemetadescription,
                 keywords: allmeta.homeMetakeywords,
                 pageUrl: 'https://www.disneyplusgroupwatch.com/',
                 featuredImage: '/logo.png',
